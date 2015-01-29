@@ -1,7 +1,6 @@
 LeetCode Solutions
 ===
 
-| #        | Title           | Solution  | 
-| ------------- |-------------| ----- |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| #   | Title           | Solution  | 
+| ----|-------------| ----- |
+| 179 |[Largest Number](https://oj.leetcode.com/problems/largest-number/)| [c++](./codes/Largest_Number.cpp) |
