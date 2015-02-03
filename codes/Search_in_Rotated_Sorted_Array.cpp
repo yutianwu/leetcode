@@ -1,3 +1,34 @@
+//题解上的解法，这里将自己想的旋转点先找出来的步骤先省略了，直接考虑在
+//A[first] 与 A[mid]的关系中了
+
+//这里二分查找的区间为[first, last),有时候可以多多关注一下这种细节的问题，以后
+//才能游刃有余
+class Solution {
+public:
+    int search(int A[], int n, int target) {
+        int first = 0, last = n;
+        while (first != last) {
+            const int mid = first + (last - first) / 2;
+            if (A[mid] == target)
+                return mid;
+            
+            if (A[first] <= A[mid]) {
+                if (A[first] <= target && target < A[mid])
+                    last = mid;
+                else
+                    first = mid + 1;
+            } else {
+                if (A[mid] < target && target <= A[last - 1])
+                    first = mid + 1;
+                else
+                    last = mid;
+            }
+        }
+        return -1;
+    }
+};
+
+//自己渺小的想法
 class Solution {
 public:
     /*
