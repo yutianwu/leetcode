@@ -7,6 +7,7 @@ LeetCode Solutions
 | 2    |[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/) | [c++](./codes/Add_Two_Numbers.cpp) |
 | 5    |[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/) | [c++](./codes/Longest_Palindromic_Substring.cpp) |
 | 33   |[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/) | [c++](./codes/Search_in_Rotated_Sorted_Array.cpp) |
+| 49   |[Anagrams ](https://oj.leetcode.com/problems/anagrams/) | [c++](./codes/Anagrams.cpp) |
 | 62   |[Unique Paths](https://oj.leetcode.com/problems/unique-paths/) | [c++](./codes/Search_in_Rotated_Sorted_Array_II.cpp) |
 | 62   |[Unique Paths II](https://oj.leetcode.com/problems/unique-paths-ii/) | [c++](./codes/Unique_Paths_II.cpp) |
 | 81   |[Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [c++](./codes/Search_in_Rotated_Sorted_Array_II.cpp) |
