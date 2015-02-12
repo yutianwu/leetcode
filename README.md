@@ -6,6 +6,7 @@ LeetCode Solutions
 | 1    |[Two Sum](https://oj.leetcode.com/problems/two-sum/) | [c++](./codes/Two_Sum.cpp) |
 | 2    |[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/) | [c++](./codes/Add_Two_Numbers.cpp) |
 | 5    |[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/) | [c++](./codes/Longest_Palindromic_Substring.cpp) |
+| 12   |[Integer to Roman](https://oj.leetcode.com/problems/integer-to-roman/) | [c++](./codes/Integer_to_Roman.cpp) |
 | 29   |[Divide Two Integers](https://oj.leetcode.com/problems/divide-two-integers/) | [c++](./codes/Divide_Two_Integers.cpp) |
 | 33   |[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/) | [c++](./codes/Search_in_Rotated_Sorted_Array.cpp) |
 | 43   |[Multiply Strings](https://oj.leetcode.com/problems/multiply-strings/) | [c++](./codes/Multiply_Strings.cpp) |
