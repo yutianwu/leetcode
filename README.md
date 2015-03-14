@@ -17,3 +17,4 @@ LeetCode Solutions
 | 151  |[Reverse Words in a String](https://oj.leetcode.com/problems/reverse-words-in-a-string/) |[c++](./codes/Reverse_Words_in_a_String.cpp)
 | 173 |[Binary Search Tree Iterator](https://oj.leetcode.com/problems/binary-search-tree-iterator/)| [c++](./codes/Binary_Search_Tree_Iterator.cpp) |
 | 179 |[Largest Number](https://oj.leetcode.com/problems/largest-number/)| [c++](./codes/Largest_Number.cpp) |
+| 187 |[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)| [c++](./codes/Repeated_DNA_Sequences.cpp) |
