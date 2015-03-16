@@ -18,5 +18,6 @@ LeetCode Solutions
 | 173 |[Binary Search Tree Iterator](https://oj.leetcode.com/problems/binary-search-tree-iterator/)| [c++](./codes/Binary_Search_Tree_Iterator.cpp) |
 | 179 |[Largest Number](https://oj.leetcode.com/problems/largest-number/)| [c++](./codes/Largest_Number.cpp) |
 | 187 |[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)| [c++](./codes/Repeated_DNA_Sequences.cpp) |
+| 189 |[Rotate Array](https://leetcode.com/problems/rotate-array/)| [c++](./codes/Rotate_Array.cpp) |
 | 190 |[Reverse Bits](https://leetcode.com/problems/reverse-bits/)| [c++](./codes/Reverse_Bits.cpp) |
 | 191 |[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [c++](./codes/Number_of_1_Bits.cpp) |
