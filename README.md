@@ -22,3 +22,4 @@ LeetCode Solutions
 | 189 |[Rotate Array](https://leetcode.com/problems/rotate-array/)| [c++](./codes/Rotate_Array.cpp) |
 | 190 |[Reverse Bits](https://leetcode.com/problems/reverse-bits/)| [c++](./codes/Reverse_Bits.cpp) |
 | 191 |[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [c++](./codes/Number_of_1_Bits.cpp) |
+| 198 |[House Robber](https://leetcode.com/problems/house-robber/)| [c++](./codes/House_Robber.cpp) |
