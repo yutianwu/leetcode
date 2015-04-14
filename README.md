@@ -14,6 +14,7 @@ LeetCode Solutions
 | 62   |[Unique Paths](https://oj.leetcode.com/problems/unique-paths/) | [c++](./codes/Search_in_Rotated_Sorted_Array_II.cpp) |
 | 62   |[Unique Paths II](https://oj.leetcode.com/problems/unique-paths-ii/) | [c++](./codes/Unique_Paths_II.cpp) |
 | 81   |[Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [c++](./codes/Search_in_Rotated_Sorted_Array_II.cpp) |
+| 139   |[Word Break](https://leetcode.com/problems/word-break/) | [c++](./codes/Search_in_Rotated_Sorted_Array_II.cpp) |
 | 151  |[Reverse Words in a String](https://oj.leetcode.com/problems/reverse-words-in-a-string/) |[c++](./codes/Reverse_Words_in_a_String.cpp)
 | 173 |[Binary Search Tree Iterator](https://oj.leetcode.com/problems/binary-search-tree-iterator/)| [c++](./codes/Binary_Search_Tree_Iterator.cpp) |
 | 174 |[Dungeon Game](https://leetcode.com/problems/dungeon-game/)| [c++](./codes/Dungeon_Game.cpp) |
@@ -23,3 +24,10 @@ LeetCode Solutions
 | 190 |[Reverse Bits](https://leetcode.com/problems/reverse-bits/)| [c++](./codes/Reverse_Bits.cpp) |
 | 191 |[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [c++](./codes/Number_of_1_Bits.cpp) |
 | 198 |[House Robber](https://leetcode.com/problems/house-robber/)| [c++](./codes/House_Robber.cpp) |
+
+
+
+##动态规划
+| 121   |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/#) | [c++](./codes/Best_Time_to_Buy_and_Sell_Stock.cpp) |
+| 139   |[Word Break](https://leetcode.com/problems/word-break/) | [c++](./codes/Word_Break.cpp) |
+| 140   |[Word Break II](https://leetcode.com/problems/word-break-ii/) | [c++](./codes/Word_Break_II.cpp) |
