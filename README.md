@@ -3,7 +3,6 @@ LeetCode Solutions
 
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
-| 1    |[Two Sum](https://oj.leetcode.com/problems/two-sum/) | [c++](./codes/Two_Sum.cpp) |
 | 2    |[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/) | [c++](./codes/Add_Two_Numbers.cpp) |
 | 5    |[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/) | [c++](./codes/Longest_Palindromic_Substring.cpp) |
 | 12   |[Integer to Roman](https://oj.leetcode.com/problems/integer-to-roman/) | [c++](./codes/Integer_to_Roman.cpp) |
@@ -22,9 +21,12 @@ LeetCode Solutions
 | 191 |[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [c++](./codes/Number_of_1_Bits.cpp) |
 
 
+##Hash Table
+| #    | Title       | Solution  | 
+| ---- |-------------| -----     |
+| 1    |[Two Sum](https://oj.leetcode.com/problems/two-sum/) | [c++](./codes/Two_Sum.cpp) |
 
-
-##动态规划
+##Dynamic Programming
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
 | 62   |[Unique Paths](https://oj.leetcode.com/problems/unique-paths/) | [c++](./codes/Search_in_Rotated_Sorted_Array_II.cpp) |
