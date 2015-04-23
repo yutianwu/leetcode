@@ -35,6 +35,7 @@ LeetCode Solutions
 | 97   |[Interleaving String](https://leetcode.com/problems/interleaving-string/) | [c++](./codes/Interleaving_String.cpp) |
 | 121   |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/#) | [c++](./codes/Best_Time_to_Buy_and_Sell_Stock.cpp) |
 | 123   |[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [c++](./codes/Best_Time_to_Buy_and_Sell_Stock_III.cpp) |
+| 132   |[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [c++](./codes/Palindrome_Partitioning_II.cpp) |
 | 139   |[Word Break](https://leetcode.com/problems/word-break/) | [c++](./codes/Word_Break.cpp) |
 | 140   |[Word Break II](https://leetcode.com/problems/word-break-ii/) | [c++](./codes/Word_Break_II.cpp) |
 | 174 |[Dungeon Game](https://leetcode.com/problems/dungeon-game/)| [c++](./codes/Dungeon_Game.cpp) |
