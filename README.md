@@ -20,6 +20,15 @@ LeetCode Solutions
 | 190 |[Reverse Bits](https://leetcode.com/problems/reverse-bits/)| [c++](./codes/Reverse_Bits.cpp) |
 | 191 |[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [c++](./codes/Number_of_1_Bits.cpp) |
 
+##Array
+| #    | Title       | Solution  | 
+| ---- |-------------| -----     |
+| 283    |[DMove Zeroes](https://leetcode.com/problems/move-zeroes/) | [c++](./codes/Move_Zeroes.cpp) |
+
+##Linked List
+| #    | Title       | Solution  | 
+| ---- |-------------| -----     |
+| 237    |[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [c++](./codes/Delete_Node_in_a_Linked_List.cpp) |
 
 ##Hash Table
 | #    | Title       | Solution  | 
@@ -40,3 +49,8 @@ LeetCode Solutions
 | 140   |[Word Break II](https://leetcode.com/problems/word-break-ii/) | [c++](./codes/Word_Break_II.cpp) |
 | 174 |[Dungeon Game](https://leetcode.com/problems/dungeon-game/)| [c++](./codes/Dungeon_Game.cpp) |
 | 198 |[House Robber](https://leetcode.com/problems/house-robber/)| [c++](./codes/House_Robber.cpp) |
+
+##Two Pointers
+| #    | Title       | Solution  | 
+| ---- |-------------| -----     |
+| 283    |[DMove Zeroes](https://leetcode.com/problems/move-zeroes/) | [c++](./codes/Move_Zeroes.cpp) |
