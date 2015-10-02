@@ -53,4 +53,9 @@ LeetCode Solutions
 ##Two Pointers
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
-| 283    |[DMove Zeroes](https://leetcode.com/problems/move-zeroes/) | [c++](./codes/Move_Zeroes.cpp) |
+| 283    |[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [c++](./codes/Move_Zeroes.cpp) |
+
+##Tree
+| #    | Title       | Solution  | 
+| ---- |-------------| -----     |
+| 226    |[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [c++](./codes/Invert_Binary_Tree.cpp) |
