@@ -62,3 +62,4 @@ LeetCode Solutions
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
 | 226    |[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [c++](./codes/Invert_Binary_Tree.cpp) |
+| 235    |[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [c++](./codes/Lowest_Common_Ancestor_of_a_Binary_Search_Tree.cpp) |
