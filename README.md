@@ -35,6 +35,7 @@ LeetCode Solutions
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
 | 1    |[Two Sum](https://oj.leetcode.com/problems/two-sum/) | [c++](./codes/Two_Sum.cpp) |
+| 202  |[Happy Number](https://leetcode.com/problems/happy-number/)| [c++](./codes/Happy_Number.cpp) |
 | 217  |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [c++](./codes/Contains_Duplicate.cpp) |
 | 242  |[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [c++](./codes/Valid_Anagram.cpp) |
 
