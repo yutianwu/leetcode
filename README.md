@@ -54,6 +54,12 @@ LeetCode Solutions
 | 174 |[Dungeon Game](https://leetcode.com/problems/dungeon-game/)| [c++](./codes/Dungeon_Game.cpp) |
 | 198 |[House Robber](https://leetcode.com/problems/house-robber/)| [c++](./codes/House_Robber.cpp) |
 
+##Stack
+| #    | Title       | Solution  | 
+| ---- |-------------| -----     |
+| 232  |[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [c++](./codes/Implement_Queue_using_Stacks.cpp) |
+
+
 ##Two Pointers
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
