@@ -25,21 +25,6 @@ LeetCode Solutions
 | ---- |-------------| -----     |
 | 283    |[DMove Zeroes](https://leetcode.com/problems/move-zeroes/) | [c++](./codes/Move_Zeroes.cpp) |
 
-##Linked List
-| #    | Title       | Solution  | 
-| ---- |-------------| -----     |
-| 237    |[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [c++](./codes/Delete_Node_in_a_Linked_List.cpp) |
-| 206    |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [c++](./codes/Reverse_Linked_List.cpp) |
-
-##Hash Table
-| #    | Title       | Solution  | 
-| ---- |-------------| -----     |
-| 1    |[Two Sum](https://oj.leetcode.com/problems/two-sum/) | [c++](./codes/Two_Sum.cpp) |
-| 202  |[Happy Number](https://leetcode.com/problems/happy-number/)| [c++](./codes/Happy_Number.cpp) |
-| 217  |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [c++](./codes/Contains_Duplicate.cpp) |
-| 242  |[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [c++](./codes/Valid_Anagram.cpp) |
-
-
 ##Dynamic Programming
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
@@ -54,6 +39,25 @@ LeetCode Solutions
 | 140   |[Word Break II](https://leetcode.com/problems/word-break-ii/) | [c++](./codes/Word_Break_II.cpp) |
 | 174 |[Dungeon Game](https://leetcode.com/problems/dungeon-game/)| [c++](./codes/Dungeon_Game.cpp) |
 | 198 |[House Robber](https://leetcode.com/problems/house-robber/)| [c++](./codes/House_Robber.cpp) |
+
+##Hash Table
+| #    | Title       | Solution  | 
+| ---- |-------------| -----     |
+| 1    |[Two Sum](https://oj.leetcode.com/problems/two-sum/) | [c++](./codes/Two_Sum.cpp) |
+| 202  |[Happy Number](https://leetcode.com/problems/happy-number/)| [c++](./codes/Happy_Number.cpp) |
+| 217  |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [c++](./codes/Contains_Duplicate.cpp) |
+| 242  |[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [c++](./codes/Valid_Anagram.cpp) |
+
+##Linked List
+| #    | Title       | Solution  | 
+| ---- |-------------| -----     |
+| 237    |[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [c++](./codes/Delete_Node_in_a_Linked_List.cpp) |
+| 206    |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [c++](./codes/Reverse_Linked_List.cpp) |
+
+##Math
+| #    | Title       | Solution  | 
+| ---- |-------------| -----     |
+| 263  |[Ugly Number](https://leetcode.com/problems/ugly-number/) | [c++](./codes/Ugly_Number.cpp) |
 
 ##Stack
 | #    | Title       | Solution  | 
@@ -72,4 +76,3 @@ LeetCode Solutions
 | 226    |[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [c++](./codes/Invert_Binary_Tree.cpp) |
 | 235    |[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [c++](./codes/Lowest_Common_Ancestor_of_a_Binary_Search_Tree.cpp) |
 | 236    |[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [c++](./codes/Lowest_Common_Ancestor_of_a_Binary_Tree.cpp) |
-
