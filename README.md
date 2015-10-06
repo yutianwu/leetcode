@@ -47,6 +47,8 @@ LeetCode Solutions
 | 202  |[Happy Number](https://leetcode.com/problems/happy-number/)| [c++](./codes/Happy_Number.cpp) |
 | 217  |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [c++](./codes/Contains_Duplicate.cpp) |
 | 242  |[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [c++](./codes/Valid_Anagram.cpp) |
+| 290  |[Word Pattern](https://leetcode.com/problems/word-pattern/)| [c++](./codes/Word_Pattern.cpp) |
+
 
 ##Linked List
 | #    | Title       | Solution  | 
@@ -57,8 +59,10 @@ LeetCode Solutions
 ##Math
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
-| 263  |[Ugly Number](https://leetcode.com/problems/ugly-number/) | [c++](./codes/Ugly_Number.cpp) |
 | 231  |[Power of Two](https://leetcode.com/problems/power-of-two/) | [c++](./codes/Power_of_Two.cpp) |
+| 263  |[Ugly Number](https://leetcode.com/problems/ugly-number/) | [c++](./codes/Ugly_Number.cpp) |
+| 289  |[Add Digits](https://leetcode.com/problems/add-digits/) | [c++](./codes/Add_Digits.cpp) |
+
 
 
 ##Stack
