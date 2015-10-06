@@ -58,6 +58,8 @@ LeetCode Solutions
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
 | 263  |[Ugly Number](https://leetcode.com/problems/ugly-number/) | [c++](./codes/Ugly_Number.cpp) |
+| 231  |[Power of Two](https://leetcode.com/problems/power-of-two/) | [c++](./codes/Power_of_Two.cpp) |
+
 
 ##Stack
 | #    | Title       | Solution  | 
