@@ -46,9 +46,9 @@ LeetCode Solutions
 | 1    |[Two Sum](https://oj.leetcode.com/problems/two-sum/) | [c++](./codes/Two_Sum.cpp) |
 | 202  |[Happy Number](https://leetcode.com/problems/happy-number/)| [c++](./codes/Happy_Number.cpp) |
 | 217  |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [c++](./codes/Contains_Duplicate.cpp) |
+| 219  |[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)| [c++](./codes/Contains_Duplicate_II.cpp) |
 | 242  |[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [c++](./codes/Valid_Anagram.cpp) |
 | 290  |[Word Pattern](https://leetcode.com/problems/word-pattern/)| [c++](./codes/Word_Pattern.cpp) |
-
 
 ##Linked List
 | #    | Title       | Solution  | 
