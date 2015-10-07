@@ -59,11 +59,10 @@ LeetCode Solutions
 ##Math
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
+| 223  |[Rectangle Area](https://leetcode.com/problems/rectangle-area/) | [c++](./codes/Rectangle_Area.cpp) |
 | 231  |[Power of Two](https://leetcode.com/problems/power-of-two/) | [c++](./codes/Power_of_Two.cpp) |
 | 263  |[Ugly Number](https://leetcode.com/problems/ugly-number/) | [c++](./codes/Ugly_Number.cpp) |
 | 289  |[Add Digits](https://leetcode.com/problems/add-digits/) | [c++](./codes/Add_Digits.cpp) |
-
-
 
 ##Stack
 | #    | Title       | Solution  | 
