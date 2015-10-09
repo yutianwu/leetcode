@@ -69,6 +69,7 @@ LeetCode Solutions
 ##Stack
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
+| 225  |[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [c++](./codes/Implement_Stack_using_Queues.cpp) |
 | 232  |[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [c++](./codes/Implement_Queue_using_Stacks.cpp) |
 
 
