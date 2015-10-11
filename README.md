@@ -3,15 +3,7 @@ LeetCode Solutions
 
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
-| 2    |[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/) | [c++](./codes/Add_Two_Numbers.cpp) |
-| 5    |[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/) | [c++](./codes/Longest_Palindromic_Substring.cpp) |
-| 12   |[Integer to Roman](https://oj.leetcode.com/problems/integer-to-roman/) | [c++](./codes/Integer_to_Roman.cpp) |
-| 29   |[Divide Two Integers](https://oj.leetcode.com/problems/divide-two-integers/) | [c++](./codes/Divide_Two_Integers.cpp) |
-| 33   |[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/) | [c++](./codes/Search_in_Rotated_Sorted_Array.cpp) |
-| 43   |[Multiply Strings](https://oj.leetcode.com/problems/multiply-strings/) | [c++](./codes/Multiply_Strings.cpp) |
 | 49   |[Anagrams ](https://oj.leetcode.com/problems/anagrams/) | [c++](./codes/Anagrams.cpp) |
-| 81   |[Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [c++](./codes/Search_in_Rotated_Sorted_Array_II.cpp) |
-| 139   |[Word Break](https://leetcode.com/problems/word-break/) | [c++](./codes/Search_in_Rotated_Sorted_Array_II.cpp) |
 | 151  |[Reverse Words in a String](https://oj.leetcode.com/problems/reverse-words-in-a-string/) |[c++](./codes/Reverse_Words_in_a_String.cpp)
 | 173 |[Binary Search Tree Iterator](https://oj.leetcode.com/problems/binary-search-tree-iterator/)| [c++](./codes/Binary_Search_Tree_Iterator.cpp) |
 | 179 |[Largest Number](https://oj.leetcode.com/problems/largest-number/)| [c++](./codes/Largest_Number.cpp) |
@@ -24,6 +16,18 @@ LeetCode Solutions
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
 | 283    |[DMove Zeroes](https://leetcode.com/problems/move-zeroes/) | [c++](./codes/Move_Zeroes.cpp) |
+
+#Binary Search
+| #    | Title       | Solution  | 
+| ---- |-------------| -----     |
+| 29   |[Divide Two Integers](https://oj.leetcode.com/problems/divide-two-integers/) | [c++](./codes/Divide_Two_Integers.cpp) |
+| 33   |[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/) | [c++](./codes/Search_in_Rotated_Sorted_Array.cpp) |
+| 81   |[Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [c++](./codes/Search_in_Rotated_Sorted_Array_II.cpp) |
+
+#Depth-first Search
+| #    | Title       | Solution  | 
+| ---- |-------------| -----     |
+| 257  |[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [c++](./codes/Binary_Tree_Paths.cpp) |
 
 ##Dynamic Programming
 | #    | Title       | Solution  | 
@@ -54,13 +58,16 @@ LeetCode Solutions
 ##Linked List
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
+| 2    |[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/) | [c++](./codes/Add_Two_Numbers.cpp) |
 | 203  |[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [c++](./codes/Remove_Linked_List_Elements.cpp) |
 | 206  |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [c++](./codes/Reverse_Linked_List.cpp) |
+| 234  |[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [c++](./codes/Palindrome_Linked_List.cpp) |
 | 237    |[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [c++](./codes/Delete_Node_in_a_Linked_List.cpp) |
 
 ##Math
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
+| 12   |[Integer to Roman](https://oj.leetcode.com/problems/integer-to-roman/) | [c++](./codes/Integer_to_Roman.cpp) |
 | 223  |[Rectangle Area](https://leetcode.com/problems/rectangle-area/) | [c++](./codes/Rectangle_Area.cpp) |
 | 231  |[Power of Two](https://leetcode.com/problems/power-of-two/) | [c++](./codes/Power_of_Two.cpp) |
 | 263  |[Ugly Number](https://leetcode.com/problems/ugly-number/) | [c++](./codes/Ugly_Number.cpp) |
@@ -71,6 +78,12 @@ LeetCode Solutions
 | ---- |-------------| -----     |
 | 225  |[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [c++](./codes/Implement_Stack_using_Queues.cpp) |
 | 232  |[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [c++](./codes/Implement_Queue_using_Stacks.cpp) |
+
+#String
+| #    | Title       | Solution  | 
+| ---- |-------------| -----     |
+| 5    |[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/) | [c++](./codes/Longest_Palindromic_Substring.cpp) |
+| 43   |[Multiply Strings](https://oj.leetcode.com/problems/multiply-strings/) | [c++](./codes/Multiply_Strings.cpp) |
 
 
 ##Two Pointers
