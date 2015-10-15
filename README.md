@@ -26,6 +26,11 @@ LeetCode Solutions
 | 81   |[Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [c++](./codes/Search_in_Rotated_Sorted_Array_II.cpp) |
 | 278  |[First Bad Version](https://leetcode.com/problems/first-bad-version/) | [c++](./codes/First_Bad_Version.cpp) |
 
+#Bit Manipulation
+| #    | Title       | Solution  | 
+| ---- |-------------| -----     |
+| 260  |[Single Number III](https://leetcode.com/problems/single-number-iii/) | [c++](./codes/Single_Number_III.cpp) |
+
 #Depth-first Search
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
