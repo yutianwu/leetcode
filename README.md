@@ -17,6 +17,7 @@ LeetCode Solutions
 | ---- |-------------| -----     |
 | 228  |[Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [c++](./codes/Summary_Ranges.java) |
 | 238  |[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [c++](./codes/Product_of_Array_Except_Self.cpp) |
+| 268  |[Missing Number](https://leetcode.com/problems/missing-number/) | [c++](./codes/Missing_Number.cpp) |
 | 283  |[DMove Zeroes](https://leetcode.com/problems/move-zeroes/) | [c++](./codes/Move_Zeroes.cpp) |
 
 #Binary Search
