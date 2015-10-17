@@ -15,6 +15,7 @@ LeetCode Solutions
 ##Array
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
+| 228  |[Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [c++](./codes/Summary_Ranges.java) |
 | 238  |[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [c++](./codes/Product_of_Array_Except_Self.cpp) |
 | 283  |[DMove Zeroes](https://leetcode.com/problems/move-zeroes/) | [c++](./codes/Move_Zeroes.cpp) |
 
@@ -24,6 +25,12 @@ LeetCode Solutions
 | 29   |[Divide Two Integers](https://oj.leetcode.com/problems/divide-two-integers/) | [c++](./codes/Divide_Two_Integers.cpp) |
 | 33   |[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/) | [c++](./codes/Search_in_Rotated_Sorted_Array.cpp) |
 | 81   |[Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [c++](./codes/Search_in_Rotated_Sorted_Array_II.cpp) |
+| 278  |[First Bad Version](https://leetcode.com/problems/first-bad-version/) | [c++](./codes/First_Bad_Version.cpp) |
+
+#Bit Manipulation
+| #    | Title       | Solution  | 
+| ---- |-------------| -----     |
+| 260  |[Single Number III](https://leetcode.com/problems/single-number-iii/) | [c++](./codes/Single_Number_III.cpp) |
 
 #Depth-first Search
 | #    | Title       | Solution  | 
