@@ -32,6 +32,7 @@ LeetCode Solutions
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
 | 260  |[Single Number III](https://leetcode.com/problems/single-number-iii/) | [c++](./codes/Single_Number_III.cpp) |
+| 268  |[Missing Number](https://leetcode.com/problems/missing-number/) | [c++](./codes/Missing_Number.cpp) |
 
 #Depth-first Search
 | #    | Title       | Solution  | 
