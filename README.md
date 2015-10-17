@@ -12,6 +12,7 @@ LeetCode Solutions
 | 190 |[Reverse Bits](https://leetcode.com/problems/reverse-bits/)| [c++](./codes/Reverse_Bits.cpp) |
 | 191 |[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [c++](./codes/Number_of_1_Bits.cpp) |
 
+
 ##Array
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
