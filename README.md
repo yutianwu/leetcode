@@ -15,7 +15,8 @@ LeetCode Solutions
 ##Array
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
-| 283    |[DMove Zeroes](https://leetcode.com/problems/move-zeroes/) | [c++](./codes/Move_Zeroes.cpp) |
+| 238  |[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [c++](./codes/Product_of_Array_Except_Self.cpp) |
+| 283  |[DMove Zeroes](https://leetcode.com/problems/move-zeroes/) | [c++](./codes/Move_Zeroes.cpp) |
 
 #Binary Search
 | #    | Title       | Solution  | 
