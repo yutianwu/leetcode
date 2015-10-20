@@ -87,6 +87,11 @@ LeetCode Solutions
 | 263  |[Ugly Number](https://leetcode.com/problems/ugly-number/) | [c++](./codes/Ugly_Number.cpp) |
 | 289  |[Add Digits](https://leetcode.com/problems/add-digits/) | [c++](./codes/Add_Digits.cpp) |
 
+##Sort
+| #    | Title       | Solution  | 
+| ---- |-------------| -----     |
+| 274  |[H-Index](https://leetcode.com/problems/h-index/) | [c++](./codes/H-Index.cpp) |
+
 ##Stack
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
