@@ -12,7 +12,6 @@ LeetCode Solutions
 | 190 |[Reverse Bits](https://leetcode.com/problems/reverse-bits/)| [c++](./codes/Reverse_Bits.cpp) |
 | 191 |[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [c++](./codes/Number_of_1_Bits.cpp) |
 
-
 ##Array
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
@@ -20,6 +19,7 @@ LeetCode Solutions
 | 238  |[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [c++](./codes/Product_of_Array_Except_Self.cpp) |
 | 268  |[Missing Number](https://leetcode.com/problems/missing-number/) | [c++](./codes/Missing_Number.cpp) |
 | 283  |[DMove Zeroes](https://leetcode.com/problems/move-zeroes/) | [c++](./codes/Move_Zeroes.cpp) |
+| 289  |[Game of Life](https://leetcode.com/problems/game-of-life/) | [c++](./codes/Game_of_Life.cpp) |
 
 #Binary Search
 | #    | Title       | Solution  | 
