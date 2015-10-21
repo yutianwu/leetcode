@@ -29,6 +29,7 @@ LeetCode Solutions
 | 81   |[Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [c++](./codes/Search_in_Rotated_Sorted_Array_II.cpp) |
 | 162  |[Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [c++](./codes/Find_Peak_Element.cpp) |
 | 230  |[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [c++](./codes/Kth_Smallest_Element_in_a_BST.cpp) |
+| 275  |[H-Index II](https://leetcode.com/problems/h-index-ii/) | [c++](./codes/H-Index_II.cpp) |
 | 278  |[First Bad Version](https://leetcode.com/problems/first-bad-version/) | [c++](./codes/First_Bad_Version.cpp) |
 
 #Bit Manipulation
