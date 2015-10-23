@@ -21,6 +21,11 @@ LeetCode Solutions
 | 283  |[DMove Zeroes](https://leetcode.com/problems/move-zeroes/) | [c++](./codes/Move_Zeroes.cpp) |
 | 289  |[Game of Life](https://leetcode.com/problems/game-of-life/) | [c++](./codes/Game_of_Life.cpp) |
 
+#Backtracking
+| #    | Title       | Solution  | 
+| ---- |-------------| -----     |
+| 216  |[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [c++](./codes/Combination_Sum_III.cpp) |
+
 #Binary Search
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
@@ -42,6 +47,11 @@ LeetCode Solutions
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
 | 257  |[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [c++](./codes/Binary_Tree_Paths.cpp) |
+
+#Design
+| #    | Title       | Solution  | 
+| ---- |-------------| -----     |
+| 284  |[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | [c++](./codes/Peeking_Iterator.cpp) |
 
 ##Dynamic Programming
 | #    | Title       | Solution  | 
