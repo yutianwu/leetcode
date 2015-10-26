@@ -21,6 +21,11 @@ LeetCode Solutions
 | 283  |[DMove Zeroes](https://leetcode.com/problems/move-zeroes/) | [c++](./codes/Move_Zeroes.cpp) |
 | 289  |[Game of Life](https://leetcode.com/problems/game-of-life/) | [c++](./codes/Game_of_Life.cpp) |
 
+#Backtracking
+| #    | Title       | Solution  | 
+| ---- |-------------| -----     |
+| 216  |[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [c++](./codes/Combination_Sum_III.cpp) |
+
 #Binary Search
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
@@ -30,6 +35,7 @@ LeetCode Solutions
 | 162  |[Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [c++](./codes/Find_Peak_Element.cpp) |
 | 230  |[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [c++](./codes/Kth_Smallest_Element_in_a_BST.cpp) |
 | 240  |[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [c++](./codes/Search_a_2D_Matrix_II.cpp) |
+| 275  |[H-Index II](https://leetcode.com/problems/h-index-ii/) | [c++](./codes/H-Index_II.cpp) |
 | 278  |[First Bad Version](https://leetcode.com/problems/first-bad-version/) | [c++](./codes/First_Bad_Version.cpp) |
 
 #Bit Manipulation
@@ -47,6 +53,11 @@ LeetCode Solutions
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
 | 257  |[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [c++](./codes/Binary_Tree_Paths.cpp) |
+
+#Design
+| #    | Title       | Solution  | 
+| ---- |-------------| -----     |
+| 284  |[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | [c++](./codes/Peeking_Iterator.cpp) |
 
 ##Dynamic Programming
 | #    | Title       | Solution  | 
