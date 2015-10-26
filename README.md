@@ -29,6 +29,7 @@ LeetCode Solutions
 | 81   |[Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [c++](./codes/Search_in_Rotated_Sorted_Array_II.cpp) |
 | 162  |[Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [c++](./codes/Find_Peak_Element.cpp) |
 | 230  |[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [c++](./codes/Kth_Smallest_Element_in_a_BST.cpp) |
+| 240  |[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [c++](./codes/Search_a_2D_Matrix_II.cpp) |
 | 278  |[First Bad Version](https://leetcode.com/problems/first-bad-version/) | [c++](./codes/First_Bad_Version.cpp) |
 
 #Bit Manipulation
@@ -36,6 +37,11 @@ LeetCode Solutions
 | ---- |-------------| -----     |
 | 260  |[Single Number III](https://leetcode.com/problems/single-number-iii/) | [c++](./codes/Single_Number_III.cpp) |
 | 268  |[Missing Number](https://leetcode.com/problems/missing-number/) | [c++](./codes/Missing_Number.cpp) |
+
+#Breadth-first Search
+| #    | Title       | Solution  | 
+| ---- |-------------| -----     |
+| 199  |[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [c++](./codes/Binary_Tree_Right_Side_View.cpp) |
 
 #Depth-first Search
 | #    | Title       | Solution  | 
