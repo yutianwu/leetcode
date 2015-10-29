@@ -79,6 +79,7 @@ LeetCode Solutions
 | 140   |[Word Break II](https://leetcode.com/problems/word-break-ii/) | [c++](./codes/Word_Break_II.cpp) |
 | 174 |[Dungeon Game](https://leetcode.com/problems/dungeon-game/)| [c++](./codes/Dungeon_Game.cpp) |
 | 198 |[House Robber](https://leetcode.com/problems/house-robber/)| [c++](./codes/House_Robber.cpp) |
+| 279 |[Perfect Squares](https://leetcode.com/problems/perfect-squares/)| [c++](./codes/Perfect_Squares.cpp) |
 
 ##Hash Table
 | #    | Title       | Solution  | 
