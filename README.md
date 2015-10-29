@@ -59,6 +59,12 @@ LeetCode Solutions
 | ---- |-------------| -----     |
 | 284  |[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | [c++](./codes/Peeking_Iterator.cpp) |
 
+#Devide and Conquer
+| #    | Title       | Solution  | 
+| ---- |-------------| -----     |
+| 241  |[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [c++](./codes/Different_Ways_to_Add_Parentheses.java) |
+
+
 ##Dynamic Programming
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
