@@ -94,6 +94,12 @@ LeetCode Solutions
 | 242  |[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [c++](./codes/Valid_Anagram.cpp) |
 | 290  |[Word Pattern](https://leetcode.com/problems/word-pattern/)| [c++](./codes/Word_Pattern.cpp) |
 
+##Heap
+| #    | Title       | Solution  | 
+| ---- |-------------| -----     |
+| 215  |[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [c++](./codes/Kth_Largest_Element_in_an_Array.cpp) |
+
+
 ##Linked List
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
