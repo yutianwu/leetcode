@@ -41,6 +41,7 @@ LeetCode Solutions
 #Bit Manipulation
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
+| 201  |[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [c++](./codes/Bitwise_AND_of_Numbers_Range.cpp) |
 | 260  |[Single Number III](https://leetcode.com/problems/single-number-iii/) | [c++](./codes/Single_Number_III.cpp) |
 | 268  |[Missing Number](https://leetcode.com/problems/missing-number/) | [c++](./codes/Missing_Number.cpp) |
 
@@ -147,3 +148,8 @@ LeetCode Solutions
 | 226    |[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [c++](./codes/Invert_Binary_Tree.cpp) |
 | 235    |[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [c++](./codes/Lowest_Common_Ancestor_of_a_Binary_Search_Tree.cpp) |
 | 236    |[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [c++](./codes/Lowest_Common_Ancestor_of_a_Binary_Tree.cpp) |
+
+##Trie
+| #    | Title       | Solution  | 
+| ---- |-------------| -----     |
+| 208  |[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [c++](./codes/Implement_Trie.cpp) |
