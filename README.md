@@ -54,6 +54,7 @@ LeetCode Solutions
 #Depth-first Search
 | #    | Title       | Solution  | 
 | ---- |-------------| -----     |
+| 200  |[Number of Islands](https://leetcode.com/problems/number-of-islands/) | [c++](./codes/Number_of_Islands.cpp) |
 | 257  |[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [c++](./codes/Binary_Tree_Paths.cpp) |
 
 #Design
