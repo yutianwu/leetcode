@@ -1,7 +1,7 @@
 LeetCode Solutions
 ===
 
-| #    | Title       | Solution  | 
+| #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | 49   |[Anagrams ](https://oj.leetcode.com/problems/anagrams/) | [c++](./codes/Anagrams.cpp) |
 | 151  |[Reverse Words in a String](https://oj.leetcode.com/problems/reverse-words-in-a-string/) |[c++](./codes/Reverse_Words_in_a_String.cpp)
@@ -13,7 +13,7 @@ LeetCode Solutions
 | 191 |[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [c++](./codes/Number_of_1_Bits.cpp) |
 
 ##Array
-| #    | Title       | Solution  | 
+| #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | 209  |[Minimum Size Subarray Sum](https://leetcode.com/problemset/algorithms/) | [c++](./codes/Minimum_Size_Subarray_Sum.java) |
 | 228  |[Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [c++](./codes/Summary_Ranges.java) |
@@ -23,12 +23,12 @@ LeetCode Solutions
 | 289  |[Game of Life](https://leetcode.com/problems/game-of-life/) | [c++](./codes/Game_of_Life.cpp) |
 
 #Backtracking
-| #    | Title       | Solution  | 
+| #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | 216  |[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [c++](./codes/Combination_Sum_III.cpp) |
 
 #Binary Search
-| #    | Title       | Solution  | 
+| #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | 29   |[Divide Two Integers](https://oj.leetcode.com/problems/divide-two-integers/) | [c++](./codes/Divide_Two_Integers.cpp) |
 | 33   |[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/) | [c++](./codes/Search_in_Rotated_Sorted_Array.cpp) |
@@ -40,36 +40,36 @@ LeetCode Solutions
 | 278  |[First Bad Version](https://leetcode.com/problems/first-bad-version/) | [c++](./codes/First_Bad_Version.cpp) |
 
 #Bit Manipulation
-| #    | Title       | Solution  | 
+| #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | 201  |[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [c++](./codes/Bitwise_AND_of_Numbers_Range.cpp) |
 | 260  |[Single Number III](https://leetcode.com/problems/single-number-iii/) | [c++](./codes/Single_Number_III.cpp) |
 | 268  |[Missing Number](https://leetcode.com/problems/missing-number/) | [c++](./codes/Missing_Number.cpp) |
 
 #Breadth-first Search
-| #    | Title       | Solution  | 
+| #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | 199  |[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [c++](./codes/Binary_Tree_Right_Side_View.cpp) |
 
 #Depth-first Search
-| #    | Title       | Solution  | 
+| #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | 200  |[Number of Islands](https://leetcode.com/problems/number-of-islands/) | [c++](./codes/Number_of_Islands.cpp) |
 | 257  |[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [c++](./codes/Binary_Tree_Paths.cpp) |
 
 #Design
-| #    | Title       | Solution  | 
+| #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | 284  |[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | [c++](./codes/Peeking_Iterator.cpp) |
 
 #Devide and Conquer
-| #    | Title       | Solution  | 
+| #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | 241  |[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [c++](./codes/Different_Ways_to_Add_Parentheses.java) |
 
 
 ##Dynamic Programming
-| #    | Title       | Solution  | 
+| #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | 62   |[Unique Paths](https://oj.leetcode.com/problems/unique-paths/) | [c++](./codes/Search_in_Rotated_Sorted_Array_II.cpp) |
 | 63   |[Unique Paths II](https://oj.leetcode.com/problems/unique-paths-ii/) | [c++](./codes/Unique_Paths_II.cpp) |
@@ -77,6 +77,7 @@ LeetCode Solutions
 | 97   |[Interleaving String](https://leetcode.com/problems/interleaving-string/) | [c++](./codes/Interleaving_String.cpp) |
 | 121   |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/#) | [c++](./codes/Best_Time_to_Buy_and_Sell_Stock.cpp) |
 | 123   |[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [c++](./codes/Best_Time_to_Buy_and_Sell_Stock_III.cpp) |
+| 188   |[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [c++](./codes/Best_Time_to_Buy_and_Sell_Stock_IV.cpp) |
 | 132   |[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [c++](./codes/Palindrome_Partitioning_II.cpp) |
 | 139   |[Word Break](https://leetcode.com/problems/word-break/) | [c++](./codes/Word_Break.cpp) |
 | 140   |[Word Break II](https://leetcode.com/problems/word-break-ii/) | [c++](./codes/Word_Break_II.cpp) |
@@ -86,7 +87,7 @@ LeetCode Solutions
 | 279 |[Perfect Squares](https://leetcode.com/problems/perfect-squares/)| [c++](./codes/Perfect_Squares.cpp) |
 
 ##Hash Table
-| #    | Title       | Solution  | 
+| #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | 1    |[Two Sum](https://oj.leetcode.com/problems/two-sum/) | [c++](./codes/Two_Sum.cpp) |
 | 202  |[Happy Number](https://leetcode.com/problems/happy-number/)| [c++](./codes/Happy_Number.cpp) |
@@ -98,13 +99,13 @@ LeetCode Solutions
 | 290  |[Word Pattern](https://leetcode.com/problems/word-pattern/)| [c++](./codes/Word_Pattern.cpp) |
 
 ##Heap
-| #    | Title       | Solution  | 
+| #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | 215  |[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [c++](./codes/Kth_Largest_Element_in_an_Array.cpp) |
 | 218  |[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) | [c++](./codes/The_Skyline_Problem.cpp) |
 
 ##Linked List
-| #    | Title       | Solution  | 
+| #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | 2    |[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/) | [c++](./codes/Add_Two_Numbers.cpp) |
 | 203  |[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [c++](./codes/Remove_Linked_List_Elements.cpp) |
@@ -113,7 +114,7 @@ LeetCode Solutions
 | 237    |[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [c++](./codes/Delete_Node_in_a_Linked_List.cpp) |
 
 ##Math
-| #    | Title       | Solution  | 
+| #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | 12   |[Integer to Roman](https://oj.leetcode.com/problems/integer-to-roman/) | [c++](./codes/Integer_to_Roman.cpp) |
 | 223  |[Rectangle Area](https://leetcode.com/problems/rectangle-area/) | [c++](./codes/Rectangle_Area.cpp) |
@@ -122,30 +123,30 @@ LeetCode Solutions
 | 289  |[Add Digits](https://leetcode.com/problems/add-digits/) | [c++](./codes/Add_Digits.cpp) |
 
 ##Sort
-| #    | Title       | Solution  | 
+| #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | 274  |[H-Index](https://leetcode.com/problems/h-index/) | [c++](./codes/H-Index.cpp) |
 
 ##Stack
-| #    | Title       | Solution  | 
+| #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | 225  |[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [c++](./codes/Implement_Stack_using_Queues.cpp) |
 | 232  |[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [c++](./codes/Implement_Queue_using_Stacks.cpp) |
 
 #String
-| #    | Title       | Solution  | 
+| #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | 5    |[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/) | [c++](./codes/Longest_Palindromic_Substring.cpp) |
 | 43   |[Multiply Strings](https://oj.leetcode.com/problems/multiply-strings/) | [c++](./codes/Multiply_Strings.cpp) |
 
 
 ##Two Pointers
-| #    | Title       | Solution  | 
+| #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | 283    |[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [c++](./codes/Move_Zeroes.cpp) |
 
 ##Tree
-| #    | Title       | Solution  | 
+| #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | 226    |[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [c++](./codes/Invert_Binary_Tree.cpp) |
 | 235    |[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [c++](./codes/Lowest_Common_Ancestor_of_a_Binary_Search_Tree.cpp) |
@@ -154,6 +155,6 @@ LeetCode Solutions
 
 
 ##Trie
-| #    | Title       | Solution  | 
+| #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | 208  |[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [c++](./codes/Implement_Trie.cpp) |
