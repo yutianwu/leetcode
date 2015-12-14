@@ -75,7 +75,8 @@ LeetCode Solutions
 | 63   |[Unique Paths II](https://oj.leetcode.com/problems/unique-paths-ii/) | [c++](./codes/Unique_Paths_II.cpp) |
 | 87   |[Scramble String](https://leetcode.com/problems/scramble-string/) | [c++](./codes/Scramble_String.cpp) |
 | 97   |[Interleaving String](https://leetcode.com/problems/interleaving-string/) | [c++](./codes/Interleaving_String.cpp) |
-| 121   |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/#) | [c++](./codes/Best_Time_to_Buy_and_Sell_Stock.cpp) |
+| 121   |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [c++](./codes/Best_Time_to_Buy_and_Sell_Stock.cpp) |
+| 122   |[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [c++](./codes/Best_Time_to_Buy_and_Sell_Stock_II.cpp) |
 | 123   |[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [c++](./codes/Best_Time_to_Buy_and_Sell_Stock_III.cpp) |
 | 188   |[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [c++](./codes/Best_Time_to_Buy_and_Sell_Stock_IV.cpp) |
 | 132   |[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [c++](./codes/Palindrome_Partitioning_II.cpp) |
