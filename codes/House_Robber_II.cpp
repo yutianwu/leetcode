@@ -1,22 +1,26 @@
+/*
+将问题分解成两部分，一个就是强第一个，另一个就是不强第一个
+然后就是用上一题的解法就可以了
+*/
 class Solution {
 public:
-    int rob(vector<int>& nums) {
-        int size = nums.size();
-        if (size == 0) return 0;
-        if (size == 1) return nums[0];
-        
-        vector<int> withOne(size, 0);
-        vector<int> withOutOne(size, 0);
-        withOne[0] = nums[0];
-        withOne[1] = nums[0];
-        
-        withOutOne[0] = 0;
-        withOutOne[1] = nums[1];
-        
-        for (int i = 2; i < size; i++) {
-            withOne[i] = max(withOne[i - 1], nums[i] + withOne[i - 2]);
-            withOutOne[i] = max(withOutOne[i - 1], nums[i] + withOutOne[i - 2]);
+    int robOriginal(vector<int>& nums) {
+        int dp1 = 0, dp2 = 0, res = 0;
+        for(int i = 0; i < nums.size(); ++i){
+            res = max(dp2 + nums[i], dp1);
+            dp2 = dp1;
+            dp1 = res;
         }
-        return max(withOne[size - 2], withOutOne[size - 1]);
+        return res;
+    }
+
+    int rob(vector<int>& nums) {
+        if(nums.empty()) return 0;
+        if(nums.size() == 1) return nums[0];
+
+        vector<int> numsA(nums.begin() + 1, nums.end());
+        vector<int> numsB(nums.begin(), nums.end()-1);
+
+        return max(robOriginal(numsA), robOriginal(numsB));
     }
 };
