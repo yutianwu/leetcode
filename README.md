@@ -71,10 +71,12 @@ LeetCode Solutions
 ##Dynamic Programming
 | #    | Title       | Solution  |
 | ---- |-------------| -----     |
+| 53   |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [c++](./codes/Maximum_Subarray.cpp) |
 | 62   |[Unique Paths](https://oj.leetcode.com/problems/unique-paths/) | [c++](./codes/Search_in_Rotated_Sorted_Array_II.cpp) |
 | 63   |[Unique Paths II](https://oj.leetcode.com/problems/unique-paths-ii/) | [c++](./codes/Unique_Paths_II.cpp) |
 | 87   |[Scramble String](https://leetcode.com/problems/scramble-string/) | [c++](./codes/Scramble_String.cpp) |
 | 97   |[Interleaving String](https://leetcode.com/problems/interleaving-string/) | [c++](./codes/Interleaving_String.cpp) |
+| 120   |[Triangle](https://leetcode.com/problems/triangle/) | [c++](./codes/Triangle.cpp) |
 | 121   |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [c++](./codes/Best_Time_to_Buy_and_Sell_Stock.cpp) |
 | 122   |[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [c++](./codes/Best_Time_to_Buy_and_Sell_Stock_II.cpp) |
 | 123   |[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [c++](./codes/Best_Time_to_Buy_and_Sell_Stock_III.cpp) |
@@ -86,6 +88,7 @@ LeetCode Solutions
 | 198 |[House Robber](https://leetcode.com/problems/house-robber/)| [c++](./codes/House_Robber.cpp) |
 | 213 |[House Robber II](https://leetcode.com/problems/house-robber-ii/)| [c++](./codes/House_Robber_II.cpp) |
 | 279 |[Perfect Squares](https://leetcode.com/problems/perfect-squares/)| [c++](./codes/Perfect_Squares.cpp) |
+| 303 |[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)| [c++](./codes/Range_Sum_Query_Immutable.cpp) |
 
 ##Hash Table
 | #    | Title       | Solution  |
