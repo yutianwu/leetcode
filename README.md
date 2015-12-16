@@ -65,6 +65,7 @@ LeetCode Solutions
 #Devide and Conquer
 | #    | Title       | Solution  |
 | ---- |-------------| -----     |
+| 95   |[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [c++](./codes/Unique_Binary_Search_Trees_II.java) |
 | 241  |[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [c++](./codes/Different_Ways_to_Add_Parentheses.java) |
 
 
@@ -77,6 +78,7 @@ LeetCode Solutions
 | 64   |[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [c++](./codes/Minimum_Path_Sum.cpp) |
 | 87   |[Scramble String](https://leetcode.com/problems/scramble-string/) | [c++](./codes/Scramble_String.cpp) |
 | 91   |[Decode Ways](https://leetcode.com/problems/decode-ways/) | [c++](./codes/Decode_Ways.cpp) |
+| 96   |[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [c++](./codes/Unique_Binary_Search_Trees.cpp) |
 | 97   |[Interleaving String](https://leetcode.com/problems/interleaving-string/) | [c++](./codes/Interleaving_String.cpp) |
 | 120   |[Triangle](https://leetcode.com/problems/triangle/) | [c++](./codes/Triangle.cpp) |
 | 121   |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [c++](./codes/Best_Time_to_Buy_and_Sell_Stock.cpp) |
@@ -86,6 +88,7 @@ LeetCode Solutions
 | 132   |[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [c++](./codes/Palindrome_Partitioning_II.cpp) |
 | 139   |[Word Break](https://leetcode.com/problems/word-break/) | [c++](./codes/Word_Break.cpp) |
 | 140   |[Word Break II](https://leetcode.com/problems/word-break-ii/) | [c++](./codes/Word_Break_II.cpp) |
+| 152   |[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [c++](./codes/Maximum_Product_Subarray.cpp) |
 | 174 |[Dungeon Game](https://leetcode.com/problems/dungeon-game/)| [c++](./codes/Dungeon_Game.cpp) |
 | 198 |[House Robber](https://leetcode.com/problems/house-robber/)| [c++](./codes/House_Robber.cpp) |
 | 213 |[House Robber II](https://leetcode.com/problems/house-robber-ii/)| [c++](./codes/House_Robber_II.cpp) |
