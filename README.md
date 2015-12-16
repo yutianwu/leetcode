@@ -75,6 +75,7 @@ LeetCode Solutions
 | 62   |[Unique Paths](https://oj.leetcode.com/problems/unique-paths/) | [c++](./codes/Search_in_Rotated_Sorted_Array_II.cpp) |
 | 63   |[Unique Paths II](https://oj.leetcode.com/problems/unique-paths-ii/) | [c++](./codes/Unique_Paths_II.cpp) |
 | 87   |[Scramble String](https://leetcode.com/problems/scramble-string/) | [c++](./codes/Scramble_String.cpp) |
+| 91   |[Decode Ways](https://leetcode.com/problems/decode-ways/) | [c++](./codes/Decode_Ways.cpp) |
 | 97   |[Interleaving String](https://leetcode.com/problems/interleaving-string/) | [c++](./codes/Interleaving_String.cpp) |
 | 120   |[Triangle](https://leetcode.com/problems/triangle/) | [c++](./codes/Triangle.cpp) |
 | 121   |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [c++](./codes/Best_Time_to_Buy_and_Sell_Stock.cpp) |
