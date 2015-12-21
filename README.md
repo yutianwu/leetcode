@@ -76,6 +76,7 @@ LeetCode Solutions
 | 62   |[Unique Paths](https://oj.leetcode.com/problems/unique-paths/) | [c++](./codes/Search_in_Rotated_Sorted_Array_II.cpp) |
 | 63   |[Unique Paths II](https://oj.leetcode.com/problems/unique-paths-ii/) | [c++](./codes/Unique_Paths_II.cpp) |
 | 64   |[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [c++](./codes/Minimum_Path_Sum.cpp) |
+| 72   |[Edit Distance](https://leetcode.com/problems/edit-distance/) | [c++](./codes/Edit_Distance.cpp) |
 | 87   |[Scramble String](https://leetcode.com/problems/scramble-string/) | [c++](./codes/Scramble_String.cpp) |
 | 91   |[Decode Ways](https://leetcode.com/problems/decode-ways/) | [c++](./codes/Decode_Ways.cpp) |
 | 96   |[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [c++](./codes/Unique_Binary_Search_Trees.cpp) |
