@@ -92,6 +92,7 @@ LeetCode Solutions
 | 174 |[Dungeon Game](https://leetcode.com/problems/dungeon-game/)| [c++](./codes/Dungeon_Game.cpp) |
 | 198 |[House Robber](https://leetcode.com/problems/house-robber/)| [c++](./codes/House_Robber.cpp) |
 | 213 |[House Robber II](https://leetcode.com/problems/house-robber-ii/)| [c++](./codes/House_Robber_II.cpp) |
+| 221 |[Maximal Square](https://leetcode.com/problems/maximal-square/)| [c++](./codes/Maximal_Square.cpp) |
 | 279 |[Perfect Squares](https://leetcode.com/problems/perfect-squares/)| [c++](./codes/Perfect_Squares.cpp) |
 | 303 |[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)| [c++](./codes/Range_Sum_Query_Immutable.cpp) |
 
