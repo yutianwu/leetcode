@@ -81,6 +81,7 @@ LeetCode Solutions
 | 91   |[Decode Ways](https://leetcode.com/problems/decode-ways/) | [c++](./codes/Decode_Ways.cpp) |
 | 96   |[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [c++](./codes/Unique_Binary_Search_Trees.cpp) |
 | 97   |[Interleaving String](https://leetcode.com/problems/interleaving-string/) | [c++](./codes/Interleaving_String.cpp) |
+| 115  |[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [c++](./codes/Distinct_Subsequences.cpp) |
 | 120   |[Triangle](https://leetcode.com/problems/triangle/) | [c++](./codes/Triangle.cpp) |
 | 121   |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [c++](./codes/Best_Time_to_Buy_and_Sell_Stock.cpp) |
 | 122   |[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [c++](./codes/Best_Time_to_Buy_and_Sell_Stock_II.cpp) |
@@ -149,6 +150,7 @@ LeetCode Solutions
 | ---- |-------------| -----     |
 | 5    |[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/) | [c++](./codes/Longest_Palindromic_Substring.cpp) |
 | 43   |[Multiply Strings](https://oj.leetcode.com/problems/multiply-strings/) | [c++](./codes/Multiply_Strings.cpp) |
+| 115  |[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [c++](./codes/Distinct_Subsequences.cpp) |
 
 
 ##Two Pointers
