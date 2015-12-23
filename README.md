@@ -97,6 +97,7 @@ LeetCode Solutions
 | 221 |[Maximal Square](https://leetcode.com/problems/maximal-square/)| [c++](./codes/Maximal_Square.cpp) |
 | 279 |[Perfect Squares](https://leetcode.com/problems/perfect-squares/)| [c++](./codes/Perfect_Squares.cpp) |
 | 303 |[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)| [c++](./codes/Range_Sum_Query_Immutable.cpp) |
+| 312 |[Burst Balloons](https://leetcode.com/problems/burst-balloons/)| [c++](./codes/Burst_Balloons.cpp) |
 
 ##Hash Table
 | #    | Title       | Solution  |
