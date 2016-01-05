@@ -170,8 +170,8 @@ LeetCode Solutions
 | 226    |[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [c++](./codes/Invert_Binary_Tree.cpp) |
 | 235    |[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [c++](./codes/Lowest_Common_Ancestor_of_a_Binary_Search_Tree.cpp) |
 | 236    |[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [c++](./codes/Lowest_Common_Ancestor_of_a_Binary_Tree.cpp) |
+| 257    |[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [c++](./codes/Binary_Tree_Paths.java) |
 | 297    |[Serialize and Deserialize Binary Tree](hhttps://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [c++](./codes/Serialize_and_Deserialize_Binary_Tree.java) |
-
 
 ##Trie
 | #    | Title       | Solution  |
