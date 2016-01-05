@@ -10,19 +10,15 @@
 class Solution {
 public:
     TreeNode* invertTree(TreeNode* root) {
-        invert(root);
-        return root;
-    }
-    
-    void invert(TreeNode *root) {
         if (root == NULL)
-            return;
-            
+            return root;
+
         TreeNode *tmp = root->left;
         root->left = root->right;
         root->right = tmp;
-        
+
         invertTree(root->left);
         invertTree(root->right);
+        return root;
     }
 };
