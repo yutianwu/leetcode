@@ -185,7 +185,7 @@ LeetCode Solutions
 | 236    |[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [c++](./codes/Lowest_Common_Ancestor_of_a_Binary_Tree.cpp) |
 | 257    |[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [c++](./codes/Binary_Tree_Paths.java) |
 | 297    |[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [c++](./codes/Serialize_and_Deserialize_Binary_Tree.java) |
-
+| ❌    |[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [c++](./codes/Flatten_Binary_Tree_to_Linked_List.cpp) |
 ##Trie
 | #    | Title       | Solution  |
 | ---- |-------------| -----     |
