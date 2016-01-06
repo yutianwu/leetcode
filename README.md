@@ -162,6 +162,7 @@ LeetCode Solutions
 ##Tree
 | #    | Title       | Solution  |
 | ---- |-------------| -----     |
+| 94     |[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [c++](./codes/Binary_Tree_Inorder_Traversal.cpp) |
 | 98     |[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [c++](./codes/Validate_Binary_Search_Tree.cpp) |
 | 100    |[Same Tree](https://leetcode.com/problems/same-tree/) | [c++](./codes/Same_Tree.cpp) |
 | 101    |[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [c++](./codes/Symmetric_Tree.cpp) |
