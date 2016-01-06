@@ -8,40 +8,32 @@
  * }
  */
 public class Codec {
-    private int pos = 0;
-    private String[] nums;
+
     // Encodes a tree to a single string.
     public String serialize(TreeNode root) {
-        if (root == null) 
-            return "#,";
-            
-        String result = root.val + ",";
-        result += serialize(root.left);
-        result += serialize(root.right);
-        return result;
+        if (root == null) return "#";
+        String str = root.val + "";
+        str += "," + serialize(root.left);
+        str += "," + serialize(root.right);
+        return str;
     }
 
     // Decodes your encoded data to tree.
     public TreeNode deserialize(String data) {
-        pos = 0;
-        nums = data.split(",");
-        return deserialize();
+        String[] datas = data.split(",");
+        if (datas.length <= 1) return null;
+        Deque<String> strList = new LinkedList<String>(Arrays.asList(datas));
+        TreeNode root = deserialize(strList);
+        return root;
     }
-    
-    private TreeNode deserialize() {
-        if (nums[pos].equals("#")) {
-            pos++;
-            return null;
-        }
-        
-        TreeNode root = new TreeNode(Integer.parseInt(nums[pos]));
-        pos++;
-        root.left = deserialize();
-        root.right = deserialize();
+
+    private TreeNode deserialize(Deque<String> strList) {
+        if (strList.size() == 0) return null;
+        String str = strList.pop();
+        if (str.equals("#")) return null;
+        TreeNode root = new TreeNode(Integer.parseInt(str));
+        root.left = deserialize(strList);
+        root.right = deserialize(strList);
         return root;
     }
 }
-
-// Your Codec object will be instantiated and called as such:
-// Codec codec = new Codec();
-// codec.deserialize(codec.serialize(root));
