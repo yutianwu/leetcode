@@ -178,6 +178,7 @@ LeetCode Solutions
 | 116    |[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [c++](./codes/Populating_Next_Right_Pointers_in_Each_Node.cpp) |
 | 129    |[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [c++](./codes/Sum_Root_to_Leaf_Numbers.cpp) |
 | 173    |[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [c++](./codes/Binary_Search_Tree_Iterator.cpp) |
+| ✅    |[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [c++](./codes/Binary_Tree_Right_Side_View.cpp) |
 | 226    |[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [c++](./codes/Invert_Binary_Tree.cpp) |
 | 230    |[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [c++](./codes/Kth_Smallest_Element_in_a_BST.cpp) |
 | 235    |[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [c++](./codes/Lowest_Common_Ancestor_of_a_Binary_Search_Tree.cpp) |
