@@ -187,6 +187,7 @@ LeetCode Solutions
 | 297    |[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [c++](./codes/Serialize_and_Deserialize_Binary_Tree.java) |
 | ❌    |[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [c++](./codes/Flatten_Binary_Tree_to_Linked_List.cpp) |
 | ✅    |[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [c++](./codes/Binary_Tree_Zigzag_Level_Order_Traversal.cpp) |
+| ❌    |[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [c++](./codes/Count_Complete_Tree_Nodes.cpp) |
 ##Trie
 | #    | Title       | Solution  |
 | ---- |-------------| -----     |
