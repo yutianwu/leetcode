@@ -190,6 +190,7 @@ LeetCode Solutions
 | ❌    |[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [c++](./codes/Count_Complete_Tree_Nodes.cpp) |
 | ✅    |[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [c++](./codes/Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.cpp) |
 | ✅    |[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [c++](./codes/Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp) |
+| ✅    |[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [c++](./codes/Binary_Tree_Postorder_Traversal.cpp) |
 ##Trie
 | #    | Title       | Solution  |
 | ---- |-------------| -----     |
