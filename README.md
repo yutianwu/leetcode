@@ -30,6 +30,7 @@ LeetCode Solutions
 | ✅   |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [c++](./codes/Generate_Parentheses.cpp) | |
 | ❌   |[Gray Code](https://leetcode.com/problems/gray-code/) | [c++](./codes/Gray_Code.cpp) |  |
 | ✅   |[Permutations](https://leetcode.com/problems/permutations/) | [c++](./codes/Permutations.cpp) | |
+| ✅   |[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [c++](./codes/Combination_Sum_III.cpp) | |
 
 ## Binary Search
 | #    | Title       | Solution  |
