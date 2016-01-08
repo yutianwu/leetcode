@@ -120,7 +120,7 @@ LeetCode Solutions
 
 ## Linked List
 | #    | Title       | Solution  | Remark |
-| ---- |-------------| -----     |
+| ---- |-------------| -----     |----- |
 | 2    |[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/) | [c++](./codes/Add_Two_Numbers.cpp) | |
 | 203  |[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [c++](./codes/Remove_Linked_List_Elements.cpp) | |
 | 206  |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [c++](./codes/Reverse_Linked_List.cpp) | |
