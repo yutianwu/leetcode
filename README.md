@@ -24,9 +24,10 @@ LeetCode Solutions
 | 289  |[Game of Life](https://leetcode.com/problems/game-of-life/) | [c++](./codes/Game_of_Life.cpp) |
 
 ## Backtracking
-| #    | Title       | Solution  |
-| ---- |-------------| -----     |
-| 216  |[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [c++](./codes/Combination_Sum_III.cpp) |
+| #    | Title       | Solution  | Remark |
+| ---- |-------------| -----     | ------ |
+| 216  |[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [c++](./codes/Combination_Sum_III.cpp) | |
+| ✅  |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [c++](./codes/Generate_Parentheses.cpp) | |
 
 ## Binary Search
 | #    | Title       | Solution  |
@@ -51,7 +52,7 @@ LeetCode Solutions
 | #    | Title       | Solution  | Remark |
 | ---- |-------------| -----     | ------ |
 | 199  |[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [c++](./codes/Binary_Tree_Right_Side_View.cpp) | |
-| ❌  |[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [c++](./codes/Surrounded_Regions.cpp) | 换种思路也是很好的| 
+| ❌  |[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [c++](./codes/Surrounded_Regions.cpp) | 换种思路也是很好的|
 
 ## Depth-first Search
 | #    | Title       | Solution  |
