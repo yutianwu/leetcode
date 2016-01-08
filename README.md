@@ -32,6 +32,7 @@ LeetCode Solutions
 | ✅   |[Permutations](https://leetcode.com/problems/permutations/) | [c++](./codes/Permutations.cpp) | |
 | ✅   |[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [c++](./codes/Combination_Sum_III.cpp) | |
 | ✅   |[Combinations](https://leetcode.com/problems/combinations/) | [c++](./codes/Combinations.cpp) | |
+| ✅   |[Subsets](https://leetcode.com/problems/subsets/) | [c++](./codes/Subsets.cpp) | |
 
 ## Binary Search
 | #    | Title       | Solution  |
