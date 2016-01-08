@@ -31,6 +31,7 @@ LeetCode Solutions
 | ❌   |[Gray Code](https://leetcode.com/problems/gray-code/) | [c++](./codes/Gray_Code.cpp) |  |
 | ✅   |[Permutations](https://leetcode.com/problems/permutations/) | [c++](./codes/Permutations.cpp) | |
 | ✅   |[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [c++](./codes/Combination_Sum_III.cpp) | |
+| ✅   |[Combinations](https://leetcode.com/problems/combinations/) | [c++](./codes/Combinations.cpp) | |
 
 ## Binary Search
 | #    | Title       | Solution  |
