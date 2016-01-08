@@ -27,7 +27,8 @@ LeetCode Solutions
 | #    | Title       | Solution  | Remark |
 | ---- |-------------| -----     | ------ |
 | 216  |[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [c++](./codes/Combination_Sum_III.cpp) | |
-| ✅  |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [c++](./codes/Generate_Parentheses.cpp) | |
+| ✅   |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [c++](./codes/Generate_Parentheses.cpp) | |
+| ❌   |[Gray Code](https://leetcode.com/problems/gray-code/) | [c++](./codes/Gray_Code.cpp) |  |
 
 ## Binary Search
 | #    | Title       | Solution  |
@@ -129,7 +130,6 @@ LeetCode Solutions
 | 234  |[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [c++](./codes/Palindrome_Linked_List.cpp) | |
 | 237    |[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [c++](./codes/Delete_Node_in_a_Linked_List.cpp) | |
 | ✅    |[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [c++](./codes/Convert_Sorted_List_to_Binary_Search_Tree.cpp) | 使用快慢指针找出中点之前的节点 |
-| ✅    |[Number of Islands](https://leetcode.com/problems/number-of-islands/) | [c++](./codes/Number_of_Islands.cpp) |  |
 
 ## Math
 | #    | Title       | Solution  |
