@@ -35,6 +35,9 @@ LeetCode Solutions
 | ✅   |[Subsets](https://leetcode.com/problems/subsets/) | [c++](./codes/Subsets.cpp) | |
 | ✅   |[Combination Sum](https://leetcode.com/problems/combination-sum/) | [c++](./codes/Combination_Sum.cpp) | |
 | ✅   |[Subsets II](https://leetcode.com/problems/subsets-ii/) | [c++](./codes/Subsets_II.cpp) | |
+| ✅   |[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [c++](./codes/Palindrome_Partitioning.cpp) | |
+| ✅   |[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [c++](./codes/Letter_Combinations_of_a_Phone_Number.cpp) | |
+| ✅   |[Permutations II](https://leetcode.com/problems/permutations-ii/) | [c++](./codes/Permutations_II.cpp) | |
 
 ## Binary Search
 | #    | Title       | Solution  |
