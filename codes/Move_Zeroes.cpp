@@ -6,25 +6,14 @@
 class Solution {
 public:
     void moveZeroes(vector<int>& nums) {
-        int size = nums.size();
-        int zeroPointer = 0;
-        int numPointer = -1;
-        while (numPointer < size && zeroPointer < (size - 1)) {
-            for (zeroPointer; zeroPointer < size; zeroPointer++) {
-                if (nums[zeroPointer] == 0) 
-                    break;
+        if (nums.size() == 0) return;
+        int cur = 0, last = 0;
+        while (cur < nums.size()) {
+            if (nums[cur] != 0) {
+                swap(nums[cur], nums[last]);
+                last++;
             }
-            
-            numPointer =  zeroPointer + 1;
-            for (numPointer; numPointer < size; numPointer++) {
-                if (nums[numPointer] != 0)
-                    break;
-            }
-            
-            if (numPointer < size) {
-                swap(nums[numPointer], nums[zeroPointer]);
-            }
-            zeroPointer = zeroPointer > numPointer ? numPointer : zeroPointer;
+            cur++;
         }
     }
 };

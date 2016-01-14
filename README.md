@@ -170,9 +170,9 @@ LeetCode Solutions
 
 
 ## Two Pointers
-| #    | Title       | Solution  |
-| ---- |-------------| -----     |
-| 283    |[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [c++](./codes/Move_Zeroes.cpp) |
+| #    | Title       | Solution  | Remark |
+| ---- |-------------| -----     | ------ |
+| ✅   |Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [c++](./codes/Move_Zeroes.cpp) | |
 
 ## Tree
 | #    | Title       | Solution  |
