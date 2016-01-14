@@ -173,6 +173,7 @@ LeetCode Solutions
 | #    | Title       | Solution  | Remark |
 | ---- |-------------| -----     | ------ |
 | ✅   |Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [c++](./codes/Move_Zeroes.cpp) | |
+| ❌   |Remove Element](https://leetcode.com/problems/remove-element/) | [c++](./codes/Remove_Element.cpp) | |
 
 ## Tree
 | #    | Title       | Solution  |
