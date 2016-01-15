@@ -176,6 +176,7 @@ LeetCode Solutions
 | ❌   |[Remove Element](https://leetcode.com/problems/remove-element/) | [c++](./codes/Remove_Element.cpp) | |
 | ✅   |[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [c++](./codes/Remove_Duplicates_from_Sorted_Array.cpp) | |
 | ✅   |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [c++](./codes/Merge_Sorted_Array.cpp) | |
+| ✅   |[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [c++](./codes/Remove_Nth_Node_From_End_of_List.cpp) | |
 
 ## Tree
 | #    | Title       | Solution  |
