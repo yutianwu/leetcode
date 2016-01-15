@@ -175,6 +175,7 @@ LeetCode Solutions
 | ✅   |[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [c++](./codes/Move_Zeroes.cpp) | |
 | ❌   |[Remove Element](https://leetcode.com/problems/remove-element/) | [c++](./codes/Remove_Element.cpp) | |
 | ✅   |[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [c++](./codes/Remove_Duplicates_from_Sorted_Array.cpp) | |
+| ✅   |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [c++](./codes/Merge_Sorted_Array.cpp) | |
 
 ## Tree
 | #    | Title       | Solution  |
