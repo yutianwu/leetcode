@@ -20,7 +20,7 @@ LeetCode Solutions
 | 228  |[Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [c++](./codes/Summary_Ranges.java) |
 | 238  |[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [c++](./codes/Product_of_Array_Except_Self.cpp) |
 | 268  |[Missing Number](https://leetcode.com/problems/missing-number/) | [c++](./codes/Missing_Number.cpp) |
-| 283  |[DMove Zeroes](https://leetcode.com/problems/move-zeroes/) | [c++](./codes/Move_Zeroes.cpp) |
+| 283  |[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [c++](./codes/Move_Zeroes.cpp) |
 | 289  |[Game of Life](https://leetcode.com/problems/game-of-life/) | [c++](./codes/Game_of_Life.cpp) |
 
 ## Backtracking
@@ -39,6 +39,7 @@ LeetCode Solutions
 | ✅   |[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [c++](./codes/Letter_Combinations_of_a_Phone_Number.cpp) | |
 | ✅   |[Permutations II](https://leetcode.com/problems/permutations-ii/) | [c++](./codes/Permutations_II.cpp) | |
 | ✅   |[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [c++](./codes/Combination_Sum_II.cpp) | |
+| ✅   |[Sort Colors](https://leetcode.com/problems/sort-colors/) | [c++](./codes/Sort_Colors.cpp) | |
 
 ## Binary Search
 | #    | Title       | Solution  |
