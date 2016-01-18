@@ -39,12 +39,6 @@ LeetCode Solutions
 | ✅   |[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [c++](./codes/Letter_Combinations_of_a_Phone_Number.cpp) | |
 | ✅   |[Permutations II](https://leetcode.com/problems/permutations-ii/) | [c++](./codes/Permutations_II.cpp) | |
 | ✅   |[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [c++](./codes/Combination_Sum_II.cpp) | |
-| ✅   |[Sort Colors](https://leetcode.com/problems/sort-colors/) | [c++](./codes/Sort_Colors.cpp) | |
-| ✅   |[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [c++](./codes/Remove_Duplicates_from_Sorted_Array_II.cpp) | |
-| ✅   |[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [c++](./codes/Linked_List_Cycle_II.cpp) | |
-| ✅   |[Partition List](https://leetcode.com/problems/partition-list/) | [c++](./codes/Partition_List.cpp) | |
-| ✅   |[3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [c++](./codes/3Sum_Closest.cpp) | |
-| ✅   |[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [c++](./codes/Minimum_Size_Subarray_Sum.cpp) | |
 
 ## Binary Search
 | #    | Title       | Solution  |
@@ -187,6 +181,13 @@ LeetCode Solutions
 | ✅   |[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [c++](./codes/Implement_strStr.cpp) | |
 | ✅   |[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [c++](./codes/Valid_Palindrome.cpp) | |
 | ✅   |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [c++](./codes/Linked_List_Cycle.cpp) | |
+| ✅   |[Sort Colors](https://leetcode.com/problems/sort-colors/) | [c++](./codes/Sort_Colors.cpp) | |
+| ✅   |[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [c++](./codes/Remove_Duplicates_from_Sorted_Array_II.cpp) | |
+| ✅   |[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [c++](./codes/Linked_List_Cycle_II.cpp) | |
+| ✅   |[Partition List](https://leetcode.com/problems/partition-list/) | [c++](./codes/Partition_List.cpp) | |
+| ✅   |[3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [c++](./codes/3Sum_Closest.cpp) | |
+| ✅   |[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [c++](./codes/Minimum_Size_Subarray_Sum.cpp) | |
+| ❌   |[Rotate List](https://leetcode.com/problems/rotate-list/) | [c++](./codes/Rotate_List.cpp) | |
 
 ## Tree
 | #    | Title       | Solution  |
