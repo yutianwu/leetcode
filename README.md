@@ -43,6 +43,7 @@ LeetCode Solutions
 | ✅   |[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [c++](./codes/Remove_Duplicates_from_Sorted_Array_II.cpp) | |
 | ✅   |[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [c++](./codes/Linked_List_Cycle_II.cpp) | |
 | ✅   |[Partition List](https://leetcode.com/problems/partition-list/) | [c++](./codes/Partition_List.cpp) | |
+| ✅   |[3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [c++](./codes/3Sum_Closest.cpp) | |
 
 ## Binary Search
 | #    | Title       | Solution  |
