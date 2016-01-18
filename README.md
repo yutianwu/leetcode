@@ -42,6 +42,7 @@ LeetCode Solutions
 | ✅   |[Sort Colors](https://leetcode.com/problems/sort-colors/) | [c++](./codes/Sort_Colors.cpp) | |
 | ✅   |[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [c++](./codes/Remove_Duplicates_from_Sorted_Array_II.cpp) | |
 | ✅   |[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [c++](./codes/Linked_List_Cycle_II.cpp) | |
+| ✅   |[Partition List](https://leetcode.com/problems/partition-list/) | [c++](./codes/Partition_List.cpp) | |
 
 ## Binary Search
 | #    | Title       | Solution  |
