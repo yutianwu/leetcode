@@ -189,6 +189,7 @@ LeetCode Solutions
 | ✅   |[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [c++](./codes/Minimum_Size_Subarray_Sum.cpp) | |
 | ❌   |[Rotate List](https://leetcode.com/problems/rotate-list/) | [c++](./codes/Rotate_List.cpp) | |
 | ❌   |[3Sum](https://leetcode.com/problems/3sum/) | [c++](./codes/3Sum.cpp) | 注意去重 |
+| ✅   |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [c++](./codes/Longest_Substring_Without_Repeating_Characters.cpp) | |
 
 ## Tree
 | #    | Title       | Solution  |
