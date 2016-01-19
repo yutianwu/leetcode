@@ -188,6 +188,7 @@ LeetCode Solutions
 | ✅   |[3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [c++](./codes/3Sum_Closest.cpp) | |
 | ✅   |[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [c++](./codes/Minimum_Size_Subarray_Sum.cpp) | |
 | ❌   |[Rotate List](https://leetcode.com/problems/rotate-list/) | [c++](./codes/Rotate_List.cpp) | |
+| ❌   |[3Sum](https://leetcode.com/problems/3sum/) | [c++](./codes/3Sum.cpp) | 注意去重 |
 
 ## Tree
 | #    | Title       | Solution  |
