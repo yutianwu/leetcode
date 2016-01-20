@@ -50,7 +50,8 @@ LeetCode Solutions
 | 230  |[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [c++](./codes/Kth_Smallest_Element_in_a_BST.cpp) |
 | 240  |[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [c++](./codes/Search_a_2D_Matrix_II.cpp) |
 | 275  |[H-Index II](https://leetcode.com/problems/h-index-ii/) | [c++](./codes/H-Index_II.cpp) |
-| 278  |[First Bad Version](https://leetcode.com/problems/first-bad-version/) | [c++](./codes/First_Bad_Version.cpp) |
+| ✅  |[First Bad Version](https://leetcode.com/problems/first-bad-version/) | [c++](./codes/First_Bad_Version.cpp) |
+| ✅  |[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [c++](./codes/Search_Insert_Position.cpp) |
 
 ## Bit Manipulation
 | #    | Title       | Solution  |
