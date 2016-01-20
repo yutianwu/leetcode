@@ -52,6 +52,7 @@ LeetCode Solutions
 | 275  |[H-Index II](https://leetcode.com/problems/h-index-ii/) | [c++](./codes/H-Index_II.cpp) |
 | ✅  |[First Bad Version](https://leetcode.com/problems/first-bad-version/) | [c++](./codes/First_Bad_Version.cpp) |
 | ✅  |[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [c++](./codes/Search_Insert_Position.cpp) |
+| ✅  |[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [c++](./codes/Find_Minimum_in_Rotated_Sorted_Array.cpp) |
 
 ## Bit Manipulation
 | #    | Title       | Solution  |
