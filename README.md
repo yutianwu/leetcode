@@ -41,18 +41,19 @@ LeetCode Solutions
 | ✅   |[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [c++](./codes/Combination_Sum_II.cpp) | |
 
 ## Binary Search
-| #    | Title       | Solution  |
-| ---- |-------------| -----     |
-| 29   |[Divide Two Integers](https://oj.leetcode.com/problems/divide-two-integers/) | [c++](./codes/Divide_Two_Integers.cpp) |
-| 33   |[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/) | [c++](./codes/Search_in_Rotated_Sorted_Array.cpp) |
-| 81   |[Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [c++](./codes/Search_in_Rotated_Sorted_Array_II.cpp) |
-| 162  |[Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [c++](./codes/Find_Peak_Element.cpp) |
-| 230  |[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [c++](./codes/Kth_Smallest_Element_in_a_BST.cpp) |
-| 240  |[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [c++](./codes/Search_a_2D_Matrix_II.cpp) |
-| 275  |[H-Index II](https://leetcode.com/problems/h-index-ii/) | [c++](./codes/H-Index_II.cpp) |
-| ✅  |[First Bad Version](https://leetcode.com/problems/first-bad-version/) | [c++](./codes/First_Bad_Version.cpp) |
-| ✅  |[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [c++](./codes/Search_Insert_Position.cpp) |
-| ✅  |[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [c++](./codes/Find_Minimum_in_Rotated_Sorted_Array.cpp) |
+| #    | Title       | Solution  | Remark |
+| ---- |-------------| -----     | ------ |
+| 29   |[Divide Two Integers](https://oj.leetcode.com/problems/divide-two-integers/) | [c++](./codes/Divide_Two_Integers.cpp) | |
+| 33   |[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/) | [c++](./codes/Search_in_Rotated_Sorted_Array.cpp) | |
+| 81   |[Search in Rotated Sorted Array II](https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [c++](./codes/Search_in_Rotated_Sorted_Array_II.cpp) | |
+| 162  |[Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [c++](./codes/Find_Peak_Element.cpp) | |
+| 230  |[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [c++](./codes/Kth_Smallest_Element_in_a_BST.cpp) | |
+| 240  |[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | | [c++](./codes/Search_a_2D_Matrix_II.cpp) |
+| 275  |[H-Index II](https://leetcode.com/problems/h-index-ii/) | [c++](./codes/H-Index_II.cpp) | |
+| ✅  |[First Bad Version](https://leetcode.com/problems/first-bad-version/) | [c++](./codes/First_Bad_Version.cpp) | |
+| ✅  |[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | | [c++](./codes/Search_Insert_Position.cpp) |
+| ✅  |[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [c++](./codes/Find_Minimum_in_Rotated_Sorted_Array.cpp) | |
+| ✅  |[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [c++](./codes/Search_a_2D_Matrix.cpp) | |
 
 ## Bit Manipulation
 | #    | Title       | Solution  |
