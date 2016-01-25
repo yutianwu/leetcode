@@ -1,4 +1,3 @@
-
 /**
     Solution 1: recursively
 */
@@ -15,21 +14,11 @@ private:
     ListNode* root = NULL;
 public:
     ListNode* reverseList(ListNode* head) {
-        reverse(head);
-        if (head != NULL)
-            head->next = NULL;
-        return root;
-    }
-    
-    void reverse(ListNode *head) {
-        if (head == NULL)
-            return;
-        if (head->next == NULL) {
-            root = head;
-            return;
-        }
-        reverse(head->next);
+        if(!head || !(head->next))  return head;
+        ListNode *res = reverseList(head->next);
         head->next->next = head;
+        head->next = NULL;
+        return res;
     }
 };
 
