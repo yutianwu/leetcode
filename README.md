@@ -150,6 +150,7 @@ LeetCode Solutions
 | ✅    |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [c++](./codes/Merge_Two_Sorted_Lists.cpp) |  |
 | ✅    |[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [c++](./codes/Intersection_of_Two_Linked_Lists.cpp) |  |
 | ✅    |[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [c++](./codes/Remove_Linked_List_Elements.cpp) |  |
+| ✅    |[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [c++](./codes/Swap_Nodes_in_Pairs.cpp) |  |
 
 ## Math
 | #    | Title       | Solution  |
