@@ -11,18 +11,12 @@ public:
     ListNode* removeElements(ListNode* head, int val) {
         ListNode *dummy = new ListNode(0);
         dummy->next = head;
-        ListNode *ptr = dummy;
-        while (ptr != NULL && ptr->next != NULL) {
-            if (ptr->next->val == val) {
-                if (ptr->next->next == NULL) 
-                    ptr->next = NULL;
-                else {
-                    ptr->next->val = ptr->next->next->val;
-                    ptr->next->next = ptr->next->next->next;
-                }
-            } else {
-                ptr = ptr->next;
-            }
+        ListNode *cur = dummy;
+        while (cur && cur->next) {
+            if (cur->next->val == val)
+                cur->next = cur->next->next;
+            else
+                cur = cur->next;
         }
         return dummy->next;
     }

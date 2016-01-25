@@ -149,6 +149,7 @@ LeetCode Solutions
 | ✅    |[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [c++](./codes/Remove_Duplicates_from_Sorted_List.cpp) |  |
 | ✅    |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [c++](./codes/Merge_Two_Sorted_Lists.cpp) |  |
 | ✅    |[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [c++](./codes/Intersection_of_Two_Linked_Lists.cpp) |  |
+| ✅    |[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [c++](./codes/Remove_Linked_List_Elements.cpp) |  |
 
 ## Math
 | #    | Title       | Solution  |
