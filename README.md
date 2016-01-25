@@ -158,6 +158,7 @@ LeetCode Solutions
 | ---- |-------------| -----     | ------ |
 | 274  |[H-Index](https://leetcode.com/problems/h-index/) | [c++](./codes/H-Index.cpp) | |
 | ❌   |[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [c++](./codes/Insertion_Sort_List.cpp) | 很重要|
+| ✅   |[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [c++](./codes/Valid_Anagram.cpp) | |
 
 ## Stack
 | #    | Title       | Solution  |
