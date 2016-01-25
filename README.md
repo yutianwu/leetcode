@@ -160,6 +160,7 @@ LeetCode Solutions
 | ❌   |[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [c++](./codes/Insertion_Sort_List.cpp) | 很重要|
 | ✅   |[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [c++](./codes/Valid_Anagram.cpp) | |
 | ❌   |[Sort List](https://leetcode.com/problems/sort-list/) | [c++](./codes/Sort_List.cpp) |归并排序 |
+| ❌   |[Largest Number](https://leetcode.com/problems/largest-number/) | [c++](./codes/Largest_Number.cpp) |耍赖般的解法 |
 
 ## Stack
 | #    | Title       | Solution  |
