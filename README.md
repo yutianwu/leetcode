@@ -147,6 +147,7 @@ LeetCode Solutions
 | ❌    |[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [c++](./codes/Odd_Even_Linked_List.cpp) | 链表要特别注意指针的修改 |
 | ✅    |[Reverse Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [c++](./codes/Reverse_Linked_List.cpp) |  |
 | ✅    |[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [c++](./codes/Remove_Duplicates_from_Sorted_List.cpp) |  |
+| ✅    |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [c++](./codes/Merge_Two_Sorted_Lists.cpp) |  |
 
 ## Math
 | #    | Title       | Solution  |
