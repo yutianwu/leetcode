@@ -152,6 +152,7 @@ LeetCode Solutions
 | ✅    |[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [c++](./codes/Remove_Linked_List_Elements.cpp) |  |
 | ✅    |[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [c++](./codes/Swap_Nodes_in_Pairs.cpp) |  |
 | ❌    |[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [c++](./codes/Reverse_Linked_List_II.cpp) | 链表的题非常灵活，思路可以开阔一点 |
+| ✅    |[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [c++](./codes/Remove_Duplicates_from_Sorted_List_II.cpp) |  |
 
 ## Math
 | #    | Title       | Solution  |
