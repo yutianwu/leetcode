@@ -154,6 +154,7 @@ LeetCode Solutions
 | ❌    |[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [c++](./codes/Reverse_Linked_List_II.cpp) | 链表的题非常灵活，思路可以开阔一点 |
 | ✅    |[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [c++](./codes/Remove_Duplicates_from_Sorted_List_II.cpp) |  |
 | ✅    |[Reorder List](https://leetcode.com/problems/reorder-list/) | [c++](./codes/Reorder_List.cpp) |  |
+| ✅    |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [c++](./codes/Add_Two_Numbers.cpp) |  |
 
 ## Math
 | #    | Title       | Solution  |
