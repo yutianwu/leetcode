@@ -29,6 +29,7 @@ LeetCode Solutions
 | ✅   |[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [c++](./codes/Pascal's_Triangle.cpp) |  |
 | ✅   |[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [c++](./codes/Pascal's_Triangle_II.cpp) |  |
 | ✅   |[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [c++](./codes/Contains_Duplicate_II.cpp) |  |
+| ✅   |[Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [c++](./codes/Summary_Ranges.cpp) |  |
 
 ## Backtracking
 
