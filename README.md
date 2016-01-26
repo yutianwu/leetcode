@@ -14,14 +14,15 @@ LeetCode Solutions
 
 ## Array
 
-| #    | Title       | Solution  |
-| ---- |-------------| -----     |
-| 209  |[Minimum Size Subarray Sum](https://leetcode.com/problemset/algorithms/) | [c++](./codes/Minimum_Size_Subarray_Sum.java) |
-| 228  |[Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [c++](./codes/Summary_Ranges.java) |
-| 238  |[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [c++](./codes/Product_of_Array_Except_Self.cpp) |
-| 268  |[Missing Number](https://leetcode.com/problems/missing-number/) | [c++](./codes/Missing_Number.cpp) |
-| 283  |[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [c++](./codes/Move_Zeroes.cpp) |
-| 289  |[Game of Life](https://leetcode.com/problems/game-of-life/) | [c++](./codes/Game_of_Life.cpp) |
+| #    | Title       | Solution  | Remark |
+| ---- |-------------| -----     | ------ |
+| 209  |[Minimum Size Subarray Sum](https://leetcode.com/problemset/algorithms/) | [c++](./codes/Minimum_Size_Subarray_Sum.java) | |
+| 228  |[Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [c++](./codes/Summary_Ranges.java) | |
+| 238  |[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [c++](./codes/Product_of_Array_Except_Self.cpp) | |
+| 268  |[Missing Number](https://leetcode.com/problems/missing-number/) | [c++](./codes/Missing_Number.cpp) | |
+| 283  |[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [c++](./codes/Move_Zeroes.cpp) | |
+| 289  |[Game of Life](https://leetcode.com/problems/game-of-life/) | [c++](./codes/Game_of_Life.cpp) | |
+| ❌   |[Two Sum](https://leetcode.com/problems/two-sum/) | [c++](./codes/Two_Sum.cpp) |  |
 
 ## Backtracking
 | #    | Title       | Solution  | Remark |
