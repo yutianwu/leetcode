@@ -25,6 +25,7 @@ LeetCode Solutions
 | ❌   |[Two Sum](https://leetcode.com/problems/two-sum/) | [c++](./codes/Two_Sum.cpp) | 可以一次遍历解决的问题不要用两遍 |
 | ✅   |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [c++](./codes/Contains_Duplicate.cpp) |  |
 | ✅   |[Majority Element](https://leetcode.com/problems/majority-element/) | [c++](./codes/Majority_Element.cpp) |  |
+| ✅   |[Plus One](https://leetcode.com/problems/plus-one/) | [c++](./codes/Plus_One.cpp) |  |
 
 ## Backtracking
 
