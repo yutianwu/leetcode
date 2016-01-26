@@ -31,7 +31,7 @@ LeetCode Solutions
 | ✅   |[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [c++](./codes/Contains_Duplicate_II.cpp) |  |
 | ✅   |[Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [c++](./codes/Summary_Ranges.cpp) |  |
 | ✅   |[Rotate Array](https://leetcode.com/problems/rotate-array/) | [c++](./codes/Rotate_Array.cpp) |  |
-| ✅   |[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [c++](./codes/Product_of_Array_Except_Self.cpp) |  |
+| ❌   |[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [c++](./codes/Product_of_Array_Except_Self.cpp) |  |
 
 ## Backtracking
 
@@ -67,11 +67,11 @@ LeetCode Solutions
 | ✅  |[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [c++](./codes/Search_a_2D_Matrix.cpp) | |
 
 ## Bit Manipulation
-| #    | Title       | Solution  |
-| ---- |-------------| -----     |
-| 201  |[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [c++](./codes/Bitwise_AND_of_Numbers_Range.cpp) |
-| 260  |[Single Number III](https://leetcode.com/problems/single-number-iii/) | [c++](./codes/Single_Number_III.cpp) |
-| 268  |[Missing Number](https://leetcode.com/problems/missing-number/) | [c++](./codes/Missing_Number.cpp) |
+| #    | Title       | Solution  | Remark |
+| ---- |-------------| -----     | ------ |
+| 201  |[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [c++](./codes/Bitwise_AND_of_Numbers_Range.cpp) | |
+| 260  |[Single Number III](https://leetcode.com/problems/single-number-iii/) | [c++](./codes/Single_Number_III.cpp) | |
+| ✅   |[Missing Number](https://leetcode.com/problems/missing-number/) | [c++](./codes/Missing_Number.cpp) |  |
 
 ## Breadth-first Search
 | #    | Title       | Solution  | Remark |
