@@ -22,9 +22,12 @@ LeetCode Solutions
 | 268  |[Missing Number](https://leetcode.com/problems/missing-number/) | [c++](./codes/Missing_Number.cpp) | |
 | 283  |[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [c++](./codes/Move_Zeroes.cpp) | |
 | 289  |[Game of Life](https://leetcode.com/problems/game-of-life/) | [c++](./codes/Game_of_Life.cpp) | |
-| ❌   |[Two Sum](https://leetcode.com/problems/two-sum/) | [c++](./codes/Two_Sum.cpp) |  |
+| ❌   |[Two Sum](https://leetcode.com/problems/two-sum/) | [c++](./codes/Two_Sum.cpp) | 可以一次遍历解决的问题不要用两遍 |
+| ✅   |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [c++](./codes/Contains_Duplicate.cpp) |  |
+| ✅   |[Majority Element](https://leetcode.com/problems/majority-element/) | [c++](./codes/Majority_Element.cpp) |  |
 
 ## Backtracking
+
 | #    | Title       | Solution  | Remark |
 | ---- |-------------| -----     | ------ |
 | 216  |[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [c++](./codes/Combination_Sum_III.cpp) | |
