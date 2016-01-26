@@ -147,6 +147,7 @@ LeetCode Solutions
 | 242  |[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [c++](./codes/Valid_Anagram.cpp) | |
 | 290  |[Word Pattern](https://leetcode.com/problems/word-pattern/)| [c++](./codes/Word_Pattern.cpp) | |
 | ✅  |[Happy Number](https://leetcode.com/problems/happy-number/)| [c++](./codes/Happy_Number.cpp) | |
+| ✅  |[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)| [c++](./codes/Valid_Sudoku.cpp) | |
 
 ## Heap
 
