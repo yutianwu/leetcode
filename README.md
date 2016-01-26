@@ -127,7 +127,16 @@ LeetCode Solutions
 | 303 |[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)| [c++](./codes/Range_Sum_Query_Immutable.cpp) |
 | 312 |[Burst Balloons](https://leetcode.com/problems/burst-balloons/)| [c++](./codes/Burst_Balloons.cpp) |
 
+## Greedy
+
+| #    | Title       | Solution  | Remark |
+| ---- |-------------| -----     | -----  |
+| ✅   |[Jump Game](https://leetcode.com/problems/jump-game/) | [c++](./codes/Jump_Game.cpp) |  |
+
+
+
 ## Hash Table
+
 | #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | 1    |[Two Sum](https://oj.leetcode.com/problems/two-sum/) | [c++](./codes/Two_Sum.cpp) |
@@ -140,6 +149,7 @@ LeetCode Solutions
 | 290  |[Word Pattern](https://leetcode.com/problems/word-pattern/)| [c++](./codes/Word_Pattern.cpp) |
 
 ## Heap
+
 | #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | 215  |[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [c++](./codes/Kth_Largest_Element_in_an_Array.cpp) |
