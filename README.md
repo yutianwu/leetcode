@@ -26,6 +26,7 @@ LeetCode Solutions
 | ✅   |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [c++](./codes/Contains_Duplicate.cpp) |  |
 | ✅   |[Majority Element](https://leetcode.com/problems/majority-element/) | [c++](./codes/Majority_Element.cpp) |  |
 | ✅   |[Plus One](https://leetcode.com/problems/plus-one/) | [c++](./codes/Plus_One.cpp) |  |
+| ✅   |[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [c++](./codes/Pascal's_Triangle.cpp) |  |
 
 ## Backtracking
 
