@@ -1,21 +1,21 @@
 class Solution {
 public:
     bool isHappy(int n) {
-        map<int, int> table;
-        while (true) {
-            if (n == 1) return true;
-            if (table.find(n) == table.end()) {
-                table[n] = 1;
-                int tmp = 0;
-                while (n != 0) {
-                    int remainer = n % 10;
-                    tmp += remainer * remainer;
-                    n = n / 10;
-                }
-                n = tmp;
-            } else {
-                return false;
-            }
+        unordered_set<int> dict;
+        while (n != 1) {
+            n = digitSquare(n);
+            if (dict.find(n) != dict.end()) break;
+            dict.insert(n);
         }
+        return n == 1 ? true : false;
+    }
+
+    int digitSquare(int n) {
+        int sum = 0;
+        while (n) {
+            sum += pow(n % 10, 2);
+            n /= 10;
+        }
+        return sum;
     }
 };
