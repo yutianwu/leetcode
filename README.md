@@ -30,6 +30,7 @@ LeetCode Solutions
 | ✅   |[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [c++](./codes/Pascal's_Triangle_II.cpp) |  |
 | ✅   |[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [c++](./codes/Contains_Duplicate_II.cpp) |  |
 | ✅   |[Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [c++](./codes/Summary_Ranges.cpp) |  |
+| ✅   |[Rotate Array](https://leetcode.com/problems/rotate-array/) | [c++](./codes/Rotate_Array.cpp) |  |
 
 ## Backtracking
 
