@@ -148,6 +148,7 @@ LeetCode Solutions
 | 290  |[Word Pattern](https://leetcode.com/problems/word-pattern/)| [c++](./codes/Word_Pattern.cpp) | |
 | ✅  |[Happy Number](https://leetcode.com/problems/happy-number/)| [c++](./codes/Happy_Number.cpp) | |
 | ✅  |[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)| [c++](./codes/Valid_Sudoku.cpp) | |
+| ✅  |[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)| [c++](./codes/Isomorphic_Strings.cpp) | |
 
 ## Heap
 
