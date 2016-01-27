@@ -150,7 +150,8 @@ LeetCode Solutions
 | ✅  |[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)| [c++](./codes/Valid_Sudoku.cpp) | |
 | ✅  |[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)| [c++](./codes/Isomorphic_Strings.cpp) |注意双向的对应 |
 | ✅  |[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)| [c++](./codes/Bulls_and_Cows.cpp) |注意双向的对应 |
-| ✅  |[Word Pattern](https://leetcode.com/problems/word-pattern/)| [c++](./codes/Word_Pattern.cpp) |注意双向的对应 |
+| ✅  |[Word Pattern](https://leetcode.com/problems/word-pattern/)| [c++](./codes/Word_Pattern.cpp) | |
+| ❌  |[Count Primes](https://leetcode.com/problems/count-primes/)| [c++](./codes/Count_Primes.cpp) | |
 
 ## Heap
 
