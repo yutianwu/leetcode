@@ -155,6 +155,7 @@ LeetCode Solutions
 | ✅  |[Word Pattern](https://leetcode.com/problems/word-pattern/)| [c++](./codes/Word_Pattern.cpp) | |
 | ❌  |[Count Primes](https://leetcode.com/problems/count-primes/)| [c++](./codes/Count_Primes.cpp) | |
 | ✅  |[Group Anagrams](https://leetcode.com/problems/anagrams/)| [c++](./codes/Group_Anagrams.cpp) | |
+| ✅  |[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)| [c++](./codes/Repeated_DNA_Sequences.cpp) | |
 
 ## Heap
 
