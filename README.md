@@ -148,7 +148,8 @@ LeetCode Solutions
 | 290  |[Word Pattern](https://leetcode.com/problems/word-pattern/)| [c++](./codes/Word_Pattern.cpp) | |
 | ✅  |[Happy Number](https://leetcode.com/problems/happy-number/)| [c++](./codes/Happy_Number.cpp) | |
 | ✅  |[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)| [c++](./codes/Valid_Sudoku.cpp) | |
-| ✅  |[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)| [c++](./codes/Isomorphic_Strings.cpp) | |
+| ✅  |[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)| [c++](./codes/Isomorphic_Strings.cpp) |注意双向的对应 |
+| ✅  |[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)| [c++](./codes/Bulls_and_Cows.cpp) |注意双向的对应 |
 
 ## Heap
 
@@ -229,7 +230,7 @@ LeetCode Solutions
 | ✅   |[Partition List](https://leetcode.com/problems/partition-list/) | [c++](./codes/Partition_List.cpp) | |
 | ✅   |[3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [c++](./codes/3Sum_Closest.cpp) | |
 | ✅   |[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [c++](./codes/Minimum_Size_Subarray_Sum.cpp) | |
-| ❌   |[Rotate List](https://leetcode.com/problems/rotate-list/) | [c++](./codes/Rotate_List.cpp) | |
+| ❌   |[Rotate List](https://leetcode.com/problems/rotate-list/) | [c++](./codes/Rotate_List.cpp) | 先结成环，然后再找对位置解开 |
 | ❌   |[3Sum](https://leetcode.com/problems/3sum/) | [c++](./codes/3Sum.cpp) | 注意去重 |
 | ✅   |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [c++](./codes/Longest_Substring_Without_Repeating_Characters.cpp) | |
 | ✅   |[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [c++](./codes/Container_With_Most_Water.cpp) | |
