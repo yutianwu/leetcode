@@ -73,6 +73,7 @@ LeetCode Solutions
 | 260  |[Single Number III](https://leetcode.com/problems/single-number-iii/) | [c++](./codes/Single_Number_III.cpp) | |
 | ✅   |[Missing Number](https://leetcode.com/problems/missing-number/) | [c++](./codes/Missing_Number.cpp) |  |
 | ✅   |[Single Number](https://leetcode.com/problems/single-number/) | [c++](./codes/Single_Number.cpp) |  |
+| ✅   |[Single Number II](https://leetcode.com/problems/single-number-ii/) | [c++](./codes/Single_Number_II.cpp) |  |
 
 ## Breadth-first Search
 | #    | Title       | Solution  | Remark |
