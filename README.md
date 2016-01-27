@@ -154,6 +154,7 @@ LeetCode Solutions
 | ✅  |[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)| [c++](./codes/Bulls_and_Cows.cpp) |注意双向的对应 |
 | ✅  |[Word Pattern](https://leetcode.com/problems/word-pattern/)| [c++](./codes/Word_Pattern.cpp) | |
 | ❌  |[Count Primes](https://leetcode.com/problems/count-primes/)| [c++](./codes/Count_Primes.cpp) | |
+| ✅  |[Group Anagrams](https://leetcode.com/problems/anagrams/)| [c++](./codes/Group_Anagrams.cpp) | |
 
 ## Heap
 
