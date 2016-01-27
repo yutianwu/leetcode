@@ -72,6 +72,7 @@ LeetCode Solutions
 | 201  |[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [c++](./codes/Bitwise_AND_of_Numbers_Range.cpp) | |
 | 260  |[Single Number III](https://leetcode.com/problems/single-number-iii/) | [c++](./codes/Single_Number_III.cpp) | |
 | ✅   |[Missing Number](https://leetcode.com/problems/missing-number/) | [c++](./codes/Missing_Number.cpp) |  |
+| ✅   |[Single Number](https://leetcode.com/problems/single-number/) | [c++](./codes/Single_Number.cpp) |  |
 
 ## Breadth-first Search
 | #    | Title       | Solution  | Remark |
