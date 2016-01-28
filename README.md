@@ -216,6 +216,8 @@ LeetCode Solutions
 | 5    |[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/) | [c++](./codes/Longest_Palindromic_Substring.cpp) |
 | 43   |[Multiply Strings](https://oj.leetcode.com/problems/multiply-strings/) | [c++](./codes/Multiply_Strings.cpp) |
 | 115  |[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [c++](./codes/Distinct_Subsequences.cpp) |
+| ✔  |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [c++](./codes/Valid_Parentheses.cpp) |
+
 
 
 ## Two Pointers
@@ -239,7 +241,6 @@ LeetCode Solutions
 | ❌   |[Rotate List](https://leetcode.com/problems/rotate-list/) | [c++](./codes/Rotate_List.cpp) | 先结成环，然后再找对位置解开 |
 | ❌   |[3Sum](https://leetcode.com/problems/3sum/) | [c++](./codes/3Sum.cpp) | 注意去重 |
 | ✅   |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [c++](./codes/Longest_Substring_Without_Repeating_Characters.cpp) | |
-| ✅   |[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [c++](./codes/Container_With_Most_Water.cpp) | |
 
 ## Tree
 | #    | Title       | Solution  |
