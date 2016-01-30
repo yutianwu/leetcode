@@ -218,6 +218,7 @@ LeetCode Solutions
 | 115  |[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [c++](./codes/Distinct_Subsequences.cpp) |
 | ✔  |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [c++](./codes/Valid_Parentheses.cpp) |
 | ✅   |[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [c++](./codes/Length_of_Last_Word.cpp) | |
+| ✅   |[Count and Say](https://leetcode.com/problems/count-and-say/) | [c++](./codes/Count_and_Say.cpp) | |
 
 
 ## Two Pointers
