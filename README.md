@@ -219,7 +219,8 @@ LeetCode Solutions
 | ✔  |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [c++](./codes/Valid_Parentheses.cpp) |
 | ✅   |[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [c++](./codes/Length_of_Last_Word.cpp) | |
 | ✅   |[Count and Say](https://leetcode.com/problems/count-and-say/) | [c++](./codes/Count_and_Say.cpp) | |
-| ❌   |[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [c++](./codes/Longest_Common_Prefix.cpp) | |
+| ❌   |[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [c++](./codes/Longest_Common_Prefix.cpp) | 简单的方法|
+| ❌   |[Add Binary](https://leetcode.com/problems/add-binary/) | [c++](./codes/Add_Binary.cpp) | shorter |
 
 ## Two Pointers
 | #    | Title       | Solution  | Remark |
