@@ -221,6 +221,7 @@ LeetCode Solutions
 | ✅   |[Count and Say](https://leetcode.com/problems/count-and-say/) | [c++](./codes/Count_and_Say.cpp) | |
 | ❌   |[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [c++](./codes/Longest_Common_Prefix.cpp) | 简单的方法|
 | ❌   |[Add Binary](https://leetcode.com/problems/add-binary/) | [c++](./codes/Add_Binary.cpp) | shorter |
+| ✅   |[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [c++](./codes/ZigZag_Conversion.cpp) |  |
 
 ## Two Pointers
 | #    | Title       | Solution  | Remark |
