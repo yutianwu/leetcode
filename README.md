@@ -224,6 +224,7 @@ LeetCode Solutions
 | ✅   |[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [c++](./codes/ZigZag_Conversion.cpp) |  |
 | ❌   |[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [c++](./codes/String_to_Integer.cpp) | *非常重要* |
 | ❌   |[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [c++](./codes/Integer_to_Roman.cpp) |  |
+| ❌   |[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [c++](./codes/Restore_IP_Addresses.cpp) |  |
 
 ## Two Pointers
 | #    | Title       | Solution  | Remark |
