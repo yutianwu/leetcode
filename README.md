@@ -93,10 +93,11 @@ LeetCode Solutions
 | 284  |[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | [c++](./codes/Peeking_Iterator.cpp) |
 
 ## Devide and Conquer
-| #    | Title       | Solution  |
-| ---- |-------------| -----     |
-| 95   |[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [c++](./codes/Unique_Binary_Search_Trees_II.java) |
-| 241  |[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [c++](./codes/Different_Ways_to_Add_Parentheses.java) |
+| #    | Title       | Solution  | Remark |
+| ---- |-------------| -----     | ------ |
+| 95   |[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [c++](./codes/Unique_Binary_Search_Trees_II.java) | |
+| 241  |[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [c++](./codes/Different_Ways_to_Add_Parentheses.java) | |
+| ✅  |[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [c++](./codes/Kth_Largest_Element_in_an_Array.cpp) | |
 
 
 ## Dynamic Programming
