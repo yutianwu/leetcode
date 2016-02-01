@@ -32,6 +32,7 @@ LeetCode Solutions
 | ✅   |[Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [c++](./codes/Summary_Ranges.cpp) |  |
 | ✅   |[Rotate Array](https://leetcode.com/problems/rotate-array/) | [c++](./codes/Rotate_Array.cpp) |  |
 | ❌   |[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [c++](./codes/Product_of_Array_Except_Self.cpp) |  |
+| ❌   |[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [c++](./codes/Spiral_Matrix.cpp) | 把图画出来比较容易 |
 
 ## Backtracking
 
