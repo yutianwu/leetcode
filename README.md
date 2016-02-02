@@ -69,6 +69,7 @@ LeetCode Solutions
 | ✅  |[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [c++](./codes/Search_a_2D_Matrix.cpp) | |
 | ❌  |[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [c++](./codes/Search_a_2D_Matrix_II.cpp) | |
 | ❌  |[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [c++](./codes/Divide_Two_Integers.cpp) | 注意溢出的两种条件 |
+| ✅  |[Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [c++](./codes/Search_for_a_Range.cpp) |  |
 
 ## Bit Manipulation
 | #    | Title       | Solution  | Remark |
