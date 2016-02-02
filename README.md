@@ -68,6 +68,7 @@ LeetCode Solutions
 | ✅  |[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [c++](./codes/Find_Minimum_in_Rotated_Sorted_Array.cpp) | |
 | ✅  |[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [c++](./codes/Search_a_2D_Matrix.cpp) | |
 | ❌  |[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [c++](./codes/Search_a_2D_Matrix_II.cpp) | |
+| ❌  |[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [c++](./codes/Divide_Two_Integers.cpp) | 注意溢出的两种条件 |
 
 ## Bit Manipulation
 | #    | Title       | Solution  | Remark |
