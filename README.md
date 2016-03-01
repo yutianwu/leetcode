@@ -200,6 +200,7 @@ LeetCode Solutions
 | 231  |[Power of Two](https://leetcode.com/problems/power-of-two/) | [c++](./codes/Power_of_Two.cpp) |
 | 263  |[Ugly Number](https://leetcode.com/problems/ugly-number/) | [c++](./codes/Ugly_Number.cpp) |
 | 289  |[Add Digits](https://leetcode.com/problems/add-digits/) | [c++](./codes/Add_Digits.cpp) |
+| ✅   |[Power of Three](https://leetcode.com/problems/power-of-three/) | [c++](./codes/Power_of_Three.cpp) |
 
 ## Sort
 | #    | Title       | Solution  | Remark |

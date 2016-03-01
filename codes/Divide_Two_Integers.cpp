@@ -9,18 +9,18 @@ public:
     int divide(int dividend, int divisor) {
         long long a = dividend >= 0 ? dividend : -(long long) dividend;
         long long b = divisor >= 0 ? divisor : -(long long) divisor;
-        
+
         long long result = 0;
         while (a >= b) {
             long long c = b;
             for (int i = 0; a >= c; ++i, c <<= 1) {
                 a -= c;
-                result += 1 << i;
+                result += 1 g<< i;
             }
         }
-        
+
         result = ((dividend ^ divisor) >> 31) ? -result : result;
-        
+
         return result >= INT_MAX ? INT_MAX : result;
     }
 };
