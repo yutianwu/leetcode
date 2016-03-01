@@ -135,6 +135,13 @@ LeetCode Solutions
 | 303 |[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)| [c++](./codes/Range_Sum_Query_Immutable.cpp) |
 | 312 |[Burst Balloons](https://leetcode.com/problems/burst-balloons/)| [c++](./codes/Burst_Balloons.cpp) |
 
+## Graph
+| #    | Title       | Solution  | Remark |
+| ---- |-------------| -----     | -----  |
+| ✅   |[Clone Graph](https://leetcode.com/problems/clone-graph/) | [c++](./codes/Clone_Graph.cpp) | DFS比BFS要好做一点 |
+| ✅   |[Course Schedule](https://leetcode.com/problems/course-schedule/) | [c++](./codes/Course_Schedule.cpp) | DFS比BFS要好做一点 |
+
+
 ## Greedy
 
 | #    | Title       | Solution  | Remark |
