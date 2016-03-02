@@ -139,7 +139,9 @@ LeetCode Solutions
 | #    | Title       | Solution  | Remark |
 | ---- |-------------| -----     | -----  |
 | ✅   |[Clone Graph](https://leetcode.com/problems/clone-graph/) | [c++](./codes/Clone_Graph.cpp) | DFS比BFS要好做一点 |
-| ✅   |[Course Schedule](https://leetcode.com/problems/course-schedule/) | [c++](./codes/Course_Schedule.cpp) | DFS比BFS要好做一点 |
+| ✅   |[Course Schedule](https://leetcode.com/problems/course-schedule/) | [c++](./codes/Course_Schedule.cpp) |  |
+| ✅   |[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [c++](./codes/Course_Schedule_II].cpp) |  |
+| ❌   |[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [c++](./codes/Reconstruct_Itinerary.cpp) |  |
 
 
 ## Greedy
