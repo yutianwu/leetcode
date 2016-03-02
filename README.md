@@ -142,6 +142,7 @@ LeetCode Solutions
 | ✅   |[Course Schedule](https://leetcode.com/problems/course-schedule/) | [c++](./codes/Course_Schedule.cpp) |  |
 | ✅   |[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [c++](./codes/Course_Schedule_II].cpp) |  |
 | ❌   |[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [c++](./codes/Reconstruct_Itinerary.cpp) |  |
+| ❌   |[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/ | [c++](./codes/Minimum_Height_Trees.cpp) |  |
 
 
 ## Greedy
