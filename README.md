@@ -142,7 +142,7 @@ LeetCode Solutions
 | ✅   |[Course Schedule](https://leetcode.com/problems/course-schedule/) | [c++](./codes/Course_Schedule.cpp) |  |
 | ✅   |[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [c++](./codes/Course_Schedule_II].cpp) |  |
 | ❌   |[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [c++](./codes/Reconstruct_Itinerary.cpp) |  |
-| ❌   |[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/ | [c++](./codes/Minimum_Height_Trees.cpp) |  |
+| ❌   |[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/ | [c++](./codes/Minimum_Height_Trees.cpp) | 要注意只有一个节点的情况，也就是边界条件 |
 
 
 ## Greedy
@@ -302,3 +302,8 @@ LeetCode Solutions
 | #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | 208  |[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [c++](./codes/Implement_Trie.cpp) |
+
+## Union Find
+| #    | Title       | Solution  | Remark |
+| ---- |-------------| -----     | -----  |
+| ❌   |[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [c++](./codes/Longest_Consecutive_Sequence.cpp) |  |
