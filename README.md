@@ -212,6 +212,11 @@ LeetCode Solutions
 | 289  |[Add Digits](https://leetcode.com/problems/add-digits/) | [c++](./codes/Add_Digits.cpp) |
 | ✅   |[Power of Three](https://leetcode.com/problems/power-of-three/) | [c++](./codes/Power_of_Three.cpp) |
 
+## Segment Tree
+| #    | Title       | Solution  | Remark |
+| ---- |-------------| -----     | ------ |
+| ✅   |[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [c++](./codes/Range_Sum_Query_Mutable.cpp) | |
+
 ## Sort
 | #    | Title       | Solution  | Remark |
 | ---- |-------------| -----     | ------ |
