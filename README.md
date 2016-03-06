@@ -150,7 +150,7 @@ LeetCode Solutions
 | #    | Title       | Solution  | Remark |
 | ---- |-------------| -----     | -----  |
 | ✅   |[Jump Game](https://leetcode.com/problems/jump-game/) | [c++](./codes/Jump_Game.cpp) |  |
-| ✅   |[Gas Station](https://leetcode.com/problems/gas-station/) | [c++](./codes/Gas_Station.cpp) |  |
+| ❌   |[Gas Station](https://leetcode.com/problems/gas-station/) | [c++](./codes/Gas_Station.cpp) |  |
 
 
 
@@ -248,6 +248,7 @@ LeetCode Solutions
 | ❌   |[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [c++](./codes/String_to_Integer.cpp) | *非常重要* |
 | ❌   |[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [c++](./codes/Integer_to_Roman.cpp) |  |
 | ❌   |[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [c++](./codes/Restore_IP_Addresses.cpp) |  |
+| ❌   |[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [c++](./codes/Basic_Calculator_II.cpp) |  |
 
 ## Two Pointers
 | #    | Title       | Solution  | Remark |
