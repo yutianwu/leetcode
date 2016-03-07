@@ -250,6 +250,7 @@ LeetCode Solutions
 | ❌   |[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [c++](./codes/Restore_IP_Addresses.cpp) |  |
 | ❌   |[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [c++](./codes/Basic_Calculator_II.cpp) |  |
 | ❌   |[Simplify Path](https://leetcode.com/problems/simplify-path/) | [c++](./codes/Simplify_Path.cpp) | 学习c++处理字符串分割问题 |
+| ❌   |[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [c++](./codes/Reverse_Words_in_a_String.cpp) | 原地反转字符串中的句子 |
 
 ## Two Pointers
 | #    | Title       | Solution  | Remark |
