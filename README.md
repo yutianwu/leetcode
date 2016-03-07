@@ -249,6 +249,7 @@ LeetCode Solutions
 | ❌   |[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [c++](./codes/Integer_to_Roman.cpp) |  |
 | ❌   |[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [c++](./codes/Restore_IP_Addresses.cpp) |  |
 | ❌   |[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [c++](./codes/Basic_Calculator_II.cpp) |  |
+| ❌   |[Simplify Path](https://leetcode.com/problems/simplify-path/) | [c++](./codes/Simplify_Path.cpp) | 学习c++处理字符串分割问题 |
 
 ## Two Pointers
 | #    | Title       | Solution  | Remark |
