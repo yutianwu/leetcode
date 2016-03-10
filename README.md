@@ -21,7 +21,6 @@ LeetCode Solutions
 | 238  |[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [c++](./codes/Product_of_Array_Except_Self.cpp) | |
 | 268  |[Missing Number](https://leetcode.com/problems/missing-number/) | [c++](./codes/Missing_Number.cpp) | |
 | 283  |[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [c++](./codes/Move_Zeroes.cpp) | |
-| 289  |[Game of Life](https://leetcode.com/problems/game-of-life/) | [c++](./codes/Game_of_Life.cpp) | |
 | ❌   |[Two Sum](https://leetcode.com/problems/two-sum/) | [c++](./codes/Two_Sum.cpp) | 可以一次遍历解决的问题不要用两遍 |
 | ✅   |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [c++](./codes/Contains_Duplicate.cpp) |  |
 | ✅   |[Majority Element](https://leetcode.com/problems/majority-element/) | [c++](./codes/Majority_Element.cpp) |  |
@@ -36,6 +35,8 @@ LeetCode Solutions
 | ❌   |[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/) | [c++](./codes/Reverse_Integer.cpp) | 注意溢出 |
 | ✅   |[Word Search](https://leetcode.com/problems/word-search/) | [c++](./codes/Word_Search.cpp) |  |
 | ❌   |[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [c++](./codes/Set_Matrix_Zeroes.cpp) |  |
+| ❌   |[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [c++](./codes/Search_in_Rotated_Sorted_Array_II.cpp) |  |
+| ✅   |[Game of Life](https://leetcode.com/problems/game-of-life/) | [c++](./codes/Game_of_Life.cpp) |  |
 
 ## Backtracking
 
