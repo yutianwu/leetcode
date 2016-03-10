@@ -35,6 +35,7 @@ LeetCode Solutions
 | ❌   |[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [c++](./codes/Spiral_Matrix.cpp) | 把图画出来比较容易 |
 | ❌   |[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/) | [c++](./codes/Reverse_Integer.cpp) | 注意溢出 |
 | ✅   |[Word Search](https://leetcode.com/problems/word-search/) | [c++](./codes/Word_Search.cpp) |  |
+| ❌   |[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [c++](./codes/Set_Matrix_Zeroes.cpp) |  |
 
 ## Backtracking
 
