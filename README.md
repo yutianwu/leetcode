@@ -204,6 +204,7 @@ LeetCode Solutions
 | ✅    |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [c++](./codes/Add_Two_Numbers.cpp) |  |
 | ❌    |[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [c++](./codes/Merge_k_Sorted_Lists.cpp) |  |
 | ✅    |[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [c++](./codes/Reverse_Nodes_in_k-Group.cpp) |  |
+| ✅    |[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [c++](./codes/Copy_List_with_Random_Pointer.cpp) |  |
 
 ## Math
 | #    | Title       | Solution  |
