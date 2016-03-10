@@ -33,7 +33,7 @@ LeetCode Solutions
 | ✅   |[Rotate Array](https://leetcode.com/problems/rotate-array/) | [c++](./codes/Rotate_Array.cpp) |  |
 | ❌   |[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [c++](./codes/Product_of_Array_Except_Self.cpp) |  |
 | ❌   |[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [c++](./codes/Spiral_Matrix.cpp) | 把图画出来比较容易 |
-| ❌   |[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/ | [c++](./codes/Reverse_Integer.cpp) | 注意溢出 |
+| ❌   |[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/) | [c++](./codes/Reverse_Integer.cpp) | 注意溢出 |
 
 ## Backtracking
 
@@ -142,7 +142,7 @@ LeetCode Solutions
 | ✅   |[Course Schedule](https://leetcode.com/problems/course-schedule/) | [c++](./codes/Course_Schedule.cpp) |  |
 | ✅   |[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [c++](./codes/Course_Schedule_II].cpp) |  |
 | ❌   |[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) | [c++](./codes/Reconstruct_Itinerary.cpp) |  |
-| ❌   |[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/ | [c++](./codes/Minimum_Height_Trees.cpp) | 要注意只有一个节点的情况，也就是边界条件 |
+| ❌   |[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | [c++](./codes/Minimum_Height_Trees.cpp) | 要注意只有一个节点的情况，也就是边界条件 |
 
 
 ## Greedy
@@ -202,6 +202,7 @@ LeetCode Solutions
 | ✅    |[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [c++](./codes/Remove_Duplicates_from_Sorted_List_II.cpp) |  |
 | ✅    |[Reorder List](https://leetcode.com/problems/reorder-list/) | [c++](./codes/Reorder_List.cpp) |  |
 | ✅    |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [c++](./codes/Add_Two_Numbers.cpp) |  |
+| ❌    |[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [c++](./codes/Merge_k_Sorted_Lists.cpp) |  |
 
 ## Math
 | #    | Title       | Solution  |
