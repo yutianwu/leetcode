@@ -203,6 +203,7 @@ LeetCode Solutions
 | ✅    |[Reorder List](https://leetcode.com/problems/reorder-list/) | [c++](./codes/Reorder_List.cpp) |  |
 | ✅    |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [c++](./codes/Add_Two_Numbers.cpp) |  |
 | ❌    |[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [c++](./codes/Merge_k_Sorted_Lists.cpp) |  |
+| ✅    |[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [c++](./codes/Reverse_Nodes_in_k-Group.cpp) |  |
 
 ## Math
 | #    | Title       | Solution  |
