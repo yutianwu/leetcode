@@ -139,6 +139,7 @@ LeetCode Solutions
 | 312 |[Burst Balloons](https://leetcode.com/problems/burst-balloons/)| [c++](./codes/Burst_Balloons.cpp) |
 
 ## Graph
+
 | #    | Title       | Solution  | Remark |
 | ---- |-------------| -----     | -----  |
 | ✅   |[Clone Graph](https://leetcode.com/problems/clone-graph/) | [c++](./codes/Clone_Graph.cpp) | DFS比BFS要好做一点 |
@@ -154,6 +155,7 @@ LeetCode Solutions
 | ---- |-------------| -----     | -----  |
 | ✅   |[Jump Game](https://leetcode.com/problems/jump-game/) | [c++](./codes/Jump_Game.cpp) |  |
 | ❌   |[Gas Station](https://leetcode.com/problems/gas-station/) | [c++](./codes/Gas_Station.cpp) |  |
+| ✅   |[Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [c++](./codes/Jump_Game_II.cpp) |  |
 
 
 
