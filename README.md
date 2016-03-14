@@ -39,6 +39,7 @@ LeetCode Solutions
 | ✅   |[Game of Life](https://leetcode.com/problems/game-of-life/) | [c++](./codes/Game_of_Life.cpp) |  |
 | ❌   |[Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [c++](./codes/Majority_Element_II.cpp) |  |
 | ✅   |[Next Permutation](https://leetcode.com/problems/next-permutation/) | [c++](./codes/Next_Permutation.cpp) |  |
+| ✅   |[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [c++](./codes/Merge_Intervals.cpp) |  |
 
 ## Backtracking
 
@@ -77,6 +78,7 @@ LeetCode Solutions
 | ✅  |[Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [c++](./codes/Search_for_a_Range.cpp) |  |
 
 ## Bit Manipulation
+
 | #    | Title       | Solution  | Remark |
 | ---- |-------------| -----     | ------ |
 | 201  |[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [c++](./codes/Bitwise_AND_of_Numbers_Range.cpp) | |
