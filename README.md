@@ -100,6 +100,7 @@ LeetCode Solutions
 | 257  |[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [c++](./codes/Binary_Tree_Paths.cpp) |
 | ✅   |[N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [c++](./codes/N-Queens_II.cpp) |
 | ✅   |[N-Queens](https://leetcode.com/problems/n-queens/) | [c++](./codes/N-Queens.cpp) |
+| ✅   |[House Robber III](https://leetcode.com/problems/house-robber-iii/) | [c++](./codes/House_Robber_III.cpp) |
 
 ## Design
 | #    | Title       | Solution  |
