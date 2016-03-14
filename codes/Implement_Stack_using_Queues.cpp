@@ -5,36 +5,20 @@ public:
     // Push element x onto stack.
     void push(int x) {
         que.push(x);
+        for (int i = 0; i < que.size() - 1; i++) {
+            que.push(que.front());
+            que.pop();
+        }
     }
 
     // Removes the element on top of the stack.
     void pop() {
-        if (que.empty()) return;
-        
-        queue<int> tmp;
-        while (!que.empty()) {
-            int front = que.front();
-            que.pop();
-            if (!que.empty())
-                tmp.push(front);
-        }
-        que = tmp;
+        que.pop();
     }
 
     // Get the top element.
     int top() {
-        queue<int> tmp;
-        while (!que.empty()) {
-            int front = que.front();
-            que.pop();
-            tmp.push(front);
-            
-            if (que.empty()) {
-                que = tmp;
-                return front;
-            }
-        }
-        return -1;
+        return que.front();
     }
 
     // Return whether the stack is empty.
