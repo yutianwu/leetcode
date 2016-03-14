@@ -99,6 +99,7 @@ LeetCode Solutions
 | 200  |[Number of Islands](https://leetcode.com/problems/number-of-islands/) | [c++](./codes/Number_of_Islands.cpp) |
 | 257  |[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [c++](./codes/Binary_Tree_Paths.cpp) |
 | ✅   |[N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [c++](./codes/N-Queens_II.cpp) |
+| ✅   |[N-Queens](https://leetcode.com/problems/n-queens/) | [c++](./codes/N-Queens.cpp) |
 
 ## Design
 | #    | Title       | Solution  |
