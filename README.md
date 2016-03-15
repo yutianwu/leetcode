@@ -40,6 +40,7 @@ LeetCode Solutions
 | ❌   |[Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [c++](./codes/Majority_Element_II.cpp) |  |
 | ✅   |[Next Permutation](https://leetcode.com/problems/next-permutation/) | [c++](./codes/Next_Permutation.cpp) |  |
 | ✅   |[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [c++](./codes/Merge_Intervals.cpp) |  |
+| ❌   |[First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [c++](./codes/First_Missing_Positive.cpp) |  |
 
 ## Backtracking
 
