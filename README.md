@@ -41,6 +41,7 @@ LeetCode Solutions
 | ✅   |[Next Permutation](https://leetcode.com/problems/next-permutation/) | [c++](./codes/Next_Permutation.cpp) |  |
 | ✅   |[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [c++](./codes/Merge_Intervals.cpp) |  |
 | ❌   |[First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [c++](./codes/First_Missing_Positive.cpp) |每次都尝试把每个数放到正确的位置上 |
+| ❌   |[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [c++](./codes/Increasing_Triplet_Subsequence.cpp) | 保存中间值 |
 
 ## Backtracking
 
