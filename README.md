@@ -40,7 +40,7 @@ LeetCode Solutions
 | ❌   |[Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [c++](./codes/Majority_Element_II.cpp) |  |
 | ✅   |[Next Permutation](https://leetcode.com/problems/next-permutation/) | [c++](./codes/Next_Permutation.cpp) |  |
 | ✅   |[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [c++](./codes/Merge_Intervals.cpp) |  |
-| ❌   |[First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [c++](./codes/First_Missing_Positive.cpp) |  |
+| ❌   |[First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [c++](./codes/First_Missing_Positive.cpp) |每次都尝试把每个数放到正确的位置上 |
 
 ## Backtracking
 
@@ -87,6 +87,7 @@ LeetCode Solutions
 | ✅   |[Missing Number](https://leetcode.com/problems/missing-number/) | [c++](./codes/Missing_Number.cpp) |  |
 | ✅   |[Single Number](https://leetcode.com/problems/single-number/) | [c++](./codes/Single_Number.cpp) |  |
 | ✅   |[Single Number II](https://leetcode.com/problems/single-number-ii/) | [c++](./codes/Single_Number_II.cpp) |  |
+| ✅   |[Reverse Bits](https://leetcode.com/problems/reverse-bits/)| [c++](./codes/Reverse_Bits.cpp) | |
 
 ## Breadth-first Search
 | #    | Title       | Solution  | Remark |
