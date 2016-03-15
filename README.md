@@ -229,6 +229,7 @@ LeetCode Solutions
 | 263  |[Ugly Number](https://leetcode.com/problems/ugly-number/) | [c++](./codes/Ugly_Number.cpp) |
 | 289  |[Add Digits](https://leetcode.com/problems/add-digits/) | [c++](./codes/Add_Digits.cpp) |
 | ✅   |[Power of Three](https://leetcode.com/problems/power-of-three/) | [c++](./codes/Power_of_Three.cpp) |
+| ✅   |[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [c++](./codes/Excel_Sheet_Column_Title.cpp) |
 
 ## Segment Tree
 | #    | Title       | Solution  | Remark |
