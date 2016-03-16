@@ -60,6 +60,7 @@ LeetCode Solutions
 | ✅   |[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [c++](./codes/Letter_Combinations_of_a_Phone_Number.cpp) | |
 | ✅   |[Permutations II](https://leetcode.com/problems/permutations-ii/) | [c++](./codes/Permutations_II.cpp) | |
 | ✅   |[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [c++](./codes/Combination_Sum_II.cpp) | |
+| ✅   |[Word Search II](https://leetcode.com/problems/word-search-ii/) | [c++](./codes/Word_Search_II.cpp) | |
 
 ## Binary Search
 | #    | Title       | Solution  | Remark |
@@ -89,6 +90,7 @@ LeetCode Solutions
 | ✅   |[Single Number](https://leetcode.com/problems/single-number/) | [c++](./codes/Single_Number.cpp) |  |
 | ✅   |[Single Number II](https://leetcode.com/problems/single-number-ii/) | [c++](./codes/Single_Number_II.cpp) |  |
 | ✅   |[Reverse Bits](https://leetcode.com/problems/reverse-bits/)| [c++](./codes/Reverse_Bits.cpp) | |
+| ✅   |[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)| [c++](./codes/Bitwise_AND_of_Numbers_Range.cpp) | |
 
 ## Breadth-first Search
 | #    | Title       | Solution  | Remark |
