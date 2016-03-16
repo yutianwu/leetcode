@@ -61,6 +61,7 @@ LeetCode Solutions
 | ✅   |[Permutations II](https://leetcode.com/problems/permutations-ii/) | [c++](./codes/Permutations_II.cpp) | |
 | ✅   |[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [c++](./codes/Combination_Sum_II.cpp) | |
 | ✅   |[Word Search II](https://leetcode.com/problems/word-search-ii/) | [c++](./codes/Word_Search_II.cpp) | |
+| ✅   |[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [c++](./codes/Sudoku_Solver.cpp) | |
 
 ## Binary Search
 | #    | Title       | Solution  | Remark |
