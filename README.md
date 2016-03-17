@@ -175,7 +175,6 @@ LeetCode Solutions
 | ✅   |[Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [c++](./codes/Jump_Game_II.cpp) |  |
 
 
-
 ## Hash Table
 
 | #    | Title       | Solution  | Remark |
@@ -264,6 +263,7 @@ LeetCode Solutions
 | 232  |[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [c++](./codes/Implement_Queue_using_Stacks.cpp) | |
 | ✅   |[Min Stack](https://leetcode.com/problems/min-stack/) | [c++](./codes/Min_Stack.cpp) | |
 | ✅   |[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [c++](./codes/Trapping_Rain_Water.cpp) | |
+| ✅   |[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [c++](./codes/Evaluate_Reverse_Polish_Notation.java) | |
 
 ## String
 | #    | Title       | Solution  |
