@@ -98,6 +98,7 @@ LeetCode Solutions
 | ---- |-------------| -----     | ------ |
 | 199  |[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [c++](./codes/Binary_Tree_Right_Side_View.cpp) | |
 | ❌  |[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [c++](./codes/Surrounded_Regions.cpp) | 换种思路也是很好的|
+| ✅  |[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [c++](./codes/Populating_Next_Right_Pointers_in_Each_Node_II.cpp) | 要能够利用提供的条件，其实并没有奇技淫巧 |
 
 ## Depth-first Search
 | #    | Title       | Solution  |
