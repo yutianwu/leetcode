@@ -239,6 +239,7 @@ LeetCode Solutions
 | ✅   |[Power of Three](https://leetcode.com/problems/power-of-three/) | [c++](./codes/Power_of_Three.cpp) |
 | ✅   |[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [c++](./codes/Excel_Sheet_Column_Title.cpp) |
 | ✅   |[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [c++](./codes/Permutation_Sequence.cpp) |
+| ✅   |[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [c++](./codes/Sqrt(x).cpp) |
 
 ## Segment Tree
 | #    | Title       | Solution  | Remark |
