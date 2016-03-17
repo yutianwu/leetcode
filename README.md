@@ -260,6 +260,7 @@ LeetCode Solutions
 | 225  |[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [c++](./codes/Implement_Stack_using_Queues.cpp) | |
 | 232  |[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [c++](./codes/Implement_Queue_using_Stacks.cpp) | |
 | ✅   |[Min Stack](https://leetcode.com/problems/min-stack/) | [c++](./codes/Min_Stack.cpp) | |
+| ✅   |[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [c++](./codes/Trapping_Rain_Water.cpp) | |
 
 ## String
 | #    | Title       | Solution  |
