@@ -80,6 +80,7 @@ LeetCode Solutions
 | ❌  |[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [c++](./codes/Search_a_2D_Matrix_II.cpp) | |
 | ❌  |[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [c++](./codes/Divide_Two_Integers.cpp) | 注意溢出的两种条件 |
 | ✅  |[Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [c++](./codes/Search_for_a_Range.cpp) |  |
+| ✅  |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [c++](./codes/Median_of_Two_Sorted_Arrays.cpp) |  |
 
 ## Bit Manipulation
 
@@ -101,6 +102,7 @@ LeetCode Solutions
 | ✅  |[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [c++](./codes/Populating_Next_Right_Pointers_in_Each_Node_II.cpp) | 要能够利用提供的条件，其实并没有奇技淫巧 |
 
 ## Depth-first Search
+
 | #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | 200  |[Number of Islands](https://leetcode.com/problems/number-of-islands/) | [c++](./codes/Number_of_Islands.cpp) |
