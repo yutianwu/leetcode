@@ -80,7 +80,7 @@ LeetCode Solutions
 | ❌  |[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [c++](./codes/Search_a_2D_Matrix_II.cpp) | |
 | ❌  |[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [c++](./codes/Divide_Two_Integers.cpp) | 注意溢出的两种条件 |
 | ✅  |[Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [c++](./codes/Search_for_a_Range.cpp) |  |
-| ✅  |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [c++](./codes/Median_of_Two_Sorted_Arrays.cpp) |  |
+| ❌  |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [c++](./codes/Median_of_Two_Sorted_Arrays.cpp) |  |
 
 ## Bit Manipulation
 
