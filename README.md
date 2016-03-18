@@ -259,6 +259,7 @@ LeetCode Solutions
 | ❌   |[Largest Number](https://leetcode.com/problems/largest-number/) | [c++](./codes/Largest_Number.cpp) |耍赖般的解法 |
 
 ## Stack
+
 | #    | Title       | Solution  | Remark |
 | ---- |-------------| -----     | ------ |
 | 225  |[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [c++](./codes/Implement_Stack_using_Queues.cpp) | |
@@ -266,8 +267,10 @@ LeetCode Solutions
 | ✅   |[Min Stack](https://leetcode.com/problems/min-stack/) | [c++](./codes/Min_Stack.cpp) | |
 | ✅   |[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [c++](./codes/Trapping_Rain_Water.cpp) | |
 | ✅   |[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [c++](./codes/Evaluate_Reverse_Polish_Notation.java) | |
+| ❌   |[Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [c++](./codes/Basic_Calculator.cpp) | |
 
 ## String
+
 | #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | 5    |[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/) | [c++](./codes/Longest_Palindromic_Substring.cpp) |
