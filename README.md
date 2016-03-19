@@ -270,6 +270,7 @@ LeetCode Solutions
 | ✅   |[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [c++](./codes/Trapping_Rain_Water.cpp) | |
 | ✅   |[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [c++](./codes/Evaluate_Reverse_Polish_Notation.java) | |
 | ❌   |[Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [c++](./codes/Basic_Calculator.cpp) | |
+| ✅   |[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [c++](./codes/Verify_Preorder_Serialization_of_a_Binary_Tree.java) | |
 
 ## String
 
