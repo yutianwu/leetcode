@@ -81,6 +81,7 @@ LeetCode Solutions
 | ❌  |[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [c++](./codes/Divide_Two_Integers.cpp) | 注意溢出的两种条件 |
 | ✅  |[Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [c++](./codes/Search_for_a_Range.cpp) |  |
 | ❌  |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [c++](./codes/Median_of_Two_Sorted_Arrays.cpp) |  |
+| ❌  |[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | [c++](./codes/Contains_Duplicate_III.java) |  |
 
 ## Bit Manipulation
 
