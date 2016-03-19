@@ -94,6 +94,7 @@ LeetCode Solutions
 | ✅   |[Single Number II](https://leetcode.com/problems/single-number-ii/) | [c++](./codes/Single_Number_II.cpp) |  |
 | ✅   |[Reverse Bits](https://leetcode.com/problems/reverse-bits/)| [c++](./codes/Reverse_Bits.cpp) | |
 | ✅   |[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)| [c++](./codes/Bitwise_AND_of_Numbers_Range.cpp) | |
+| ❌   |[Counting Bits](https://leetcode.com/problems/counting-bits/)| [c++](./codes/Counting_Bits.cpp) | |
 
 ## Breadth-first Search
 | #    | Title       | Solution  | Remark |
