@@ -277,7 +277,7 @@ LeetCode Solutions
 | #    | Title       | Solution  |
 | ---- |-------------| -----     |
 | 5    |[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/) | [c++](./codes/Longest_Palindromic_Substring.cpp) |
-| 43   |[Multiply Strings](https://oj.leetcode.com/problems/multiply-strings/) | [c++](./codes/Multiply_Strings.cpp) |
+| ✅   |[Multiply Strings](https://oj.leetcode.com/problems/multiply-strings/) | [c++](./codes/Multiply_Strings.cpp) |
 | 115  |[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [c++](./codes/Distinct_Subsequences.cpp) |
 | ✔  |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [c++](./codes/Valid_Parentheses.cpp) |
 | ✅   |[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [c++](./codes/Length_of_Last_Word.cpp) | |
