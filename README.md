@@ -114,6 +114,7 @@ LeetCode Solutions
 | ✅   |[N-Queens](https://leetcode.com/problems/n-queens/) | [c++](./codes/N-Queens.cpp) |
 | ✅   |[House Robber III](https://leetcode.com/problems/house-robber-iii/) | [c++](./codes/House_Robber_III.cpp) |
 | ✅   |[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [c++](./codes/Longest_Increasing_Path_in_a_Matrix.cpp) |
+| ✅   |[Additive Number](https://leetcode.com/problems/additive-number/) | [c++](./codes/Additive_Number.cpp) |
 
 ## Design
 | #    | Title       | Solution  |
