@@ -248,6 +248,7 @@ LeetCode Solutions
 | ✅   |[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [c++](./codes/Excel_Sheet_Column_Title.cpp) |
 | ✅   |[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [c++](./codes/Permutation_Sequence.cpp) |
 | ✅   |[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [c++](./codes/Sqrt(x).cpp) |
+| ✅   |[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [c++](./codes/Factorial_Trailing_Zeroes.cpp) |
 
 ## Segment Tree
 | #    | Title       | Solution  | Remark |
