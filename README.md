@@ -43,6 +43,7 @@ LeetCode Solutions
 | ❌   |[First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [c++](./codes/First_Missing_Positive.cpp) |每次都尝试把每个数放到正确的位置上 |
 | ❌   |[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [c++](./codes/Increasing_Triplet_Subsequence.cpp) | 保存中间值 |
 | ✅   |[Rotate Image](https://leetcode.com/problems/rotate-image/) | [c++](./codes/Rotate_Image.cpp) |  |
+| ✅   |[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [c++](./codes/Spiral_Matrix_II.cpp) |  |
 
 ## Backtracking
 
