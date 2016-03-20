@@ -116,6 +116,7 @@ LeetCode Solutions
 | ✅   |[House Robber III](https://leetcode.com/problems/house-robber-iii/) | [c++](./codes/House_Robber_III.cpp) |
 | ✅   |[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [c++](./codes/Longest_Increasing_Path_in_a_Matrix.cpp) |
 | ✅   |[Additive Number](https://leetcode.com/problems/additive-number/) | [c++](./codes/Additive_Number.cpp) |
+| ✅   |[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [c++](./codes/Remove_Invalid_Parentheses.cpp) |
 
 ## Design
 | #    | Title       | Solution  |
