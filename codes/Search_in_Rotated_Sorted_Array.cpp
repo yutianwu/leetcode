@@ -11,7 +11,7 @@ public:
             const int mid = first + (last - first) / 2;
             if (A[mid] == target)
                 return mid;
-            
+
             if (A[first] <= A[mid]) {
                 if (A[first] <= target && target < A[mid])
                     last = mid;
@@ -25,6 +25,29 @@ public:
             }
         }
         return -1;
+    }
+};
+
+// 递归
+class Solution {
+public:
+    int search(vector<int>& nums, int target) {
+        return search(nums, target, 0, nums.size() - 1);
+    }
+
+    int search(vector<int> &num, int target, int start, int end) {
+        if (start > end) return -1;
+
+        int mid = start + (end - start) / 2;
+        if (num[mid] == target) return mid;
+
+        if (num[mid] > num[end]) {
+            if (target > num[mid] || target <= num[end]) return search(num, target, mid + 1, end);
+            else return search(num, target, start, mid - 1);
+        } else {
+            if (target > num[mid] && target <= num[end]) return search(num, target, mid + 1, end);
+            else return search(num, target, start, mid - 1);
+        }
     }
 };
 
@@ -45,7 +68,7 @@ public:
             return binarySearch(A, target, 0, pivot - 1);
         }
     }
-    
+
     //找出旋转的点
     //比如4, 5, 6, 7, 0, 1, 2
     //旋转的点在0
@@ -62,10 +85,10 @@ public:
                 last = mid - 1;
             }
         }
-        
+
         return first;
     }
-    
+
     int binarySearch(int A[], int target, int first, int last) {
         while (first <= last) {
             int mid = first + (last - first) / 2;
