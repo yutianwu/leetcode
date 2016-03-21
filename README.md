@@ -44,6 +44,7 @@ LeetCode Solutions
 | ❌   |[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [c++](./codes/Increasing_Triplet_Subsequence.cpp) | 保存中间值 |
 | ✅   |[Rotate Image](https://leetcode.com/problems/rotate-image/) | [c++](./codes/Rotate_Image.cpp) |  |
 | ✅   |[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [c++](./codes/Spiral_Matrix_II.cpp) |  |
+| ❌   |[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | [c++](./codes/Maximal_Rectangle.cpp) |  |
 
 ## Backtracking
 
