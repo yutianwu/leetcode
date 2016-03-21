@@ -255,6 +255,7 @@ LeetCode Solutions
 | #    | Title       | Solution  | Remark |
 | ---- |-------------| -----     | ------ |
 | ✅   |[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [c++](./codes/Range_Sum_Query_Mutable.cpp) | |
+| ✅   |[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [c++](./codes/Count_of_Smaller_Numbers_After_Self.cpp) | |
 
 ## Sort
 | #    | Title       | Solution  | Remark |
