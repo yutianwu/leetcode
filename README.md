@@ -281,6 +281,7 @@ LeetCode Solutions
 | ✅   |[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [c++](./codes/Evaluate_Reverse_Polish_Notation.java) | |
 | ❌   |[Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [c++](./codes/Basic_Calculator.cpp) | |
 | ✅   |[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [c++](./codes/Verify_Preorder_Serialization_of_a_Binary_Tree.java) | |
+| ✅   |[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [c++](./codes/Largest_Rectangle_in_Histogram.cpp) | |
 
 ## String
 
