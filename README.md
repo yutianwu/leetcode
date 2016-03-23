@@ -141,6 +141,7 @@ LeetCode Solutions
 | 63   |[Unique Paths II](https://oj.leetcode.com/problems/unique-paths-ii/) | [c++](./codes/Unique_Paths_II.cpp) ||
 | 64   |[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [c++](./codes/Minimum_Path_Sum.cpp) ||
 | 72   |[Edit Distance](https://leetcode.com/problems/edit-distance/) | [c++](./codes/Edit_Distance.cpp) ||
+| 87   |[Scramble String](https://leetcode.com/problems/scramble-string/) | [c++](./codes/Scramble_String.cpp) ||
 | 91   |[Decode Ways](https://leetcode.com/problems/decode-ways/) | [c++](./codes/Decode_Ways.cpp) ||
 | 96   |[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [c++](./codes/Unique_Binary_Search_Trees.cpp) ||
 | 97   |[Interleaving String](https://leetcode.com/problems/interleaving-string/) | [c++](./codes/Interleaving_String.cpp) ||
@@ -182,6 +183,7 @@ LeetCode Solutions
 | ✅   |[Jump Game](https://leetcode.com/problems/jump-game/) | [c++](./codes/Jump_Game.cpp) |  |
 | ❌   |[Gas Station](https://leetcode.com/problems/gas-station/) | [c++](./codes/Gas_Station.cpp) |  |
 | ✅   |[Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [c++](./codes/Jump_Game_II.cpp) |  |
+| ❌   |[Create Maximum Number](https://leetcode.com/problems/create-maximum-number/) | [c++](./codes/Create_Maximum_Number.cpp) |  |
 
 
 ## Hash Table
