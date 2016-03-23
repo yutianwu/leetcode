@@ -205,6 +205,7 @@ LeetCode Solutions
 | ❌  |[Count Primes](https://leetcode.com/problems/count-primes/)| [c++](./codes/Count_Primes.cpp) | |
 | ✅  |[Group Anagrams](https://leetcode.com/problems/anagrams/)| [c++](./codes/Group_Anagrams.cpp) | |
 | ✅  |[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)| [c++](./codes/Repeated_DNA_Sequences.cpp) | |
+| ❌  |[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)| [c++](./codes/Palindrome_Pairs.cpp) | |
 
 ## Heap
 
