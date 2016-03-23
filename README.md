@@ -358,9 +358,10 @@ LeetCode Solutions
 | ✅    |[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [c++](./codes/Binary_Tree_Postorder_Traversal.cpp) |
 
 ## Trie
-| #    | Title       | Solution  |
-| ---- |-------------| -----     |
-| 208  |[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [c++](./codes/Implement_Trie.cpp) |
+| #    | Title       | Solution  | Remark |
+| ---- |-------------| -----     | ------ |
+| 208  |[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [c++](./codes/Implement_Trie.cpp) | |
+| 208  |[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/) | [c++](./codes/Add_and_Search_Word.cpp) |
 
 ## Union Find
 | #    | Title       | Solution  | Remark |
