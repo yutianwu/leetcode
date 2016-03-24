@@ -164,6 +164,7 @@ LeetCode Solutions
 | 312 |[Burst Balloons](https://leetcode.com/problems/burst-balloons/)| [c++](./codes/Burst_Balloons.cpp) ||
 | ❌  |[Coin Change](https://leetcode.com/problems/coin-change/) | [c++](./codes/Coin_Change.cpp) | 最简单的DP问题 |
 | ❌  |[Scramble String](https://leetcode.com/problems/scramble-string/) | [c++](./codes/Scramble_String.cpp) | 最简单的DP问题 |
+| ✅  |[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [c++](./codes/Regular_Expression_Matching.cpp) | 最简单的DP问题 |
 
 ## Graph
 
