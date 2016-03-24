@@ -137,13 +137,12 @@ LeetCode Solutions
 | ---- |-------------| -----     | ------ |
 | 53   |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [c++](./codes/Maximum_Subarray.cpp) | |
 | 62   |[Unique Paths](https://oj.leetcode.com/problems/unique-paths/) | [c++](./codes/Search_in_Rotated_Sorted_Array_II.cpp) | |
-| 53   |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [c++](./codes/Maximum_Subarray.cpp) ||
+| ✅   |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [c++](./codes/Maximum_Subarray.cpp) ||
 | 63   |[Unique Paths II](https://oj.leetcode.com/problems/unique-paths-ii/) | [c++](./codes/Unique_Paths_II.cpp) ||
 | 64   |[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [c++](./codes/Minimum_Path_Sum.cpp) ||
 | 72   |[Edit Distance](https://leetcode.com/problems/edit-distance/) | [c++](./codes/Edit_Distance.cpp) ||
-| 87   |[Scramble String](https://leetcode.com/problems/scramble-string/) | [c++](./codes/Scramble_String.cpp) ||
 | 91   |[Decode Ways](https://leetcode.com/problems/decode-ways/) | [c++](./codes/Decode_Ways.cpp) ||
-| 96   |[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [c++](./codes/Unique_Binary_Search_Trees.cpp) ||
+| ✅   |[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [c++](./codes/Unique_Binary_Search_Trees.cpp) ||
 | 97   |[Interleaving String](https://leetcode.com/problems/interleaving-string/) | [c++](./codes/Interleaving_String.cpp) ||
 | 115  |[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [c++](./codes/Distinct_Subsequences.cpp) ||
 | 120   |[Triangle](https://leetcode.com/problems/triangle/) | [c++](./codes/Triangle.cpp) ||
@@ -165,6 +164,8 @@ LeetCode Solutions
 | ❌  |[Coin Change](https://leetcode.com/problems/coin-change/) | [c++](./codes/Coin_Change.cpp) | 最简单的DP问题 |
 | ❌  |[Scramble String](https://leetcode.com/problems/scramble-string/) | [c++](./codes/Scramble_String.cpp) | 最简单的DP问题 |
 | ✅  |[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [c++](./codes/Regular_Expression_Matching.cpp) | 最简单的DP问题 |
+| ✅  |[Counting Bits](https://leetcode.com/problems/counting-bits/) | [c++](./codes/Counting_Bits.cpp) |  |
+| ✅  |[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [c++](./codes/Climbing_Stairs.cpp) |  |
 
 ## Graph
 
