@@ -42,11 +42,15 @@ public:
         if (num[mid] == target) return mid;
 
         if (num[mid] > num[end]) {
-            if (target > num[mid] || target <= num[end]) return search(num, target, mid + 1, end);
-            else return search(num, target, start, mid - 1);
+            if (target > num[mid] || target <= num[end])
+                return search(num, target, mid + 1, end);
+            else
+                return search(num, target, start, mid - 1);
         } else {
-            if (target > num[mid] && target <= num[end]) return search(num, target, mid + 1, end);
-            else return search(num, target, start, mid - 1);
+            if (target > num[mid] && target <= num[end])
+                return search(num, target, mid + 1, end);
+            else
+                return search(num, target, start, mid - 1);
         }
     }
 };
