@@ -9,12 +9,15 @@ public:
             for (int i = 0; i < n; i++)
                 result.push_back(matrix[row][++col]);
             if (--m == 0) break;
+
             for (int i = 0; i < m; i++)
                 result.push_back(matrix[++row][col]);
             if (--n == 0) break;
+
             for (int i = 0; i < n; i++)
                 result.push_back(matrix[row][--col]);
             if (--m == 0) break;
+            
             for (int i = 0; i < m; i++)
                 result.push_back(matrix[--row][col]);
             if (--n == 0) break;

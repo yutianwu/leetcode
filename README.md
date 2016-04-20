@@ -146,7 +146,7 @@ LeetCode Solutions
 | 97   |[Interleaving String](https://leetcode.com/problems/interleaving-string/) | [c++](./codes/Interleaving_String.cpp) ||
 | 115  |[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [c++](./codes/Distinct_Subsequences.cpp) ||
 | 120   |[Triangle](https://leetcode.com/problems/triangle/) | [c++](./codes/Triangle.cpp) ||
-| 121   |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [c++](./codes/Best_Time_to_Buy_and_Sell_Stock.cpp) ||
+| ✅   |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [c++](./codes/Best_Time_to_Buy_and_Sell_Stock.cpp) ||
 | 122   |[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [c++](./codes/Best_Time_to_Buy_and_Sell_Stock_II.cpp) ||
 | 123   |[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [c++](./codes/Best_Time_to_Buy_and_Sell_Stock_III.cpp) ||
 | 188   |[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [c++](./codes/Best_Time_to_Buy_and_Sell_Stock_IV.cpp) ||
